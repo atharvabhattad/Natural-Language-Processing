@@ -1,0 +1,6 @@
+langchain 0.3.20
+langgraph 0.3.5
+faiss-cpu 
+langchain-community 0.3.19
+transformers 4.49.0
+sentence_transformers 3.4.1
