@@ -1,0 +1,1117 @@
+train
+<s>[INST] Hi [/INST] Hello! </s>
+<s>[INST] Hi [/INST] Good to see you again! </s>
+"<s>[INST] Hi [/INST] Hi there, how can I help? </s>"
+<s>[INST] How are you? [/INST] Hello! </s>
+<s>[INST] How are you? [/INST] Good to see you again! </s>
+"<s>[INST] How are you? [/INST] Hi there, how can I help? </s>"
+<s>[INST] Is anyone there? [/INST] Hello! </s>
+<s>[INST] Is anyone there? [/INST] Good to see you again! </s>
+"<s>[INST] Is anyone there? [/INST] Hi there, how can I help? </s>"
+<s>[INST] Hello [/INST] Hello! </s>
+<s>[INST] Hello [/INST] Good to see you again! </s>
+"<s>[INST] Hello [/INST] Hi there, how can I help? </s>"
+<s>[INST] Good day [/INST] Hello! </s>
+<s>[INST] Good day [/INST] Good to see you again! </s>
+"<s>[INST] Good day [/INST] Hi there, how can I help? </s>"
+<s>[INST] What's up [/INST] Hello! </s>
+<s>[INST] What's up [/INST] Good to see you again! </s>
+"<s>[INST] What's up [/INST] Hi there, how can I help? </s>"
+<s>[INST] how are ya [/INST] Hello! </s>
+<s>[INST] how are ya [/INST] Good to see you again! </s>
+"<s>[INST] how are ya [/INST] Hi there, how can I help? </s>"
+<s>[INST] heyy [/INST] Hello! </s>
+<s>[INST] heyy [/INST] Good to see you again! </s>
+"<s>[INST] heyy [/INST] Hi there, how can I help? </s>"
+<s>[INST] whatsup [/INST] Hello! </s>
+<s>[INST] whatsup [/INST] Good to see you again! </s>
+"<s>[INST] whatsup [/INST] Hi there, how can I help? </s>"
+<s>[INST] ??? ??? ?? [/INST] Hello! </s>
+<s>[INST] ??? ??? ?? [/INST] Good to see you again! </s>
+"<s>[INST] ??? ??? ?? [/INST] Hi there, how can I help? </s>"
+<s>[INST] Hey! [/INST] Hello! </s>
+<s>[INST] Hey! [/INST] Good to see you again! </s>
+"<s>[INST] Hey! [/INST] Hi there, how can I help? </s>"
+<s>[INST] Greetings! [/INST] Hello! </s>
+<s>[INST] Greetings! [/INST] Good to see you again! </s>
+"<s>[INST] Greetings! [/INST] Hi there, how can I help? </s>"
+<s>[INST] Hey there! [/INST] Hello! </s>
+<s>[INST] Hey there! [/INST] Good to see you again! </s>
+"<s>[INST] Hey there! [/INST] Hi there, how can I help? </s>"
+"<s>[INST] Hey, how can I assist you? [/INST] Hello! </s>"
+"<s>[INST] Hey, how can I assist you? [/INST] Good to see you again! </s>"
+"<s>[INST] Hey, how can I assist you? [/INST] Hi there, how can I help? </s>"
+<s>[INST] Hey buddy! [/INST] Hello! </s>
+<s>[INST] Hey buddy! [/INST] Good to see you again! </s>
+"<s>[INST] Hey buddy! [/INST] Hi there, how can I help? </s>"
+<s>[INST] Yo! [/INST] Hello! </s>
+<s>[INST] Yo! [/INST] Good to see you again! </s>
+"<s>[INST] Yo! [/INST] Hi there, how can I help? </s>"
+<s>[INST] Hey friend! [/INST] Hello! </s>
+<s>[INST] Hey friend! [/INST] Good to see you again! </s>
+"<s>[INST] Hey friend! [/INST] Hi there, how can I help? </s>"
+"<s>[INST] Hey, nice to see you! [/INST] Hello! </s>"
+"<s>[INST] Hey, nice to see you! [/INST] Good to see you again! </s>"
+"<s>[INST] Hey, nice to see you! [/INST] Hi there, how can I help? </s>"
+"<s>[INST] Hey, what's happening? [/INST] Hello! </s>"
+"<s>[INST] Hey, what's happening? [/INST] Good to see you again! </s>"
+"<s>[INST] Hey, what's happening? [/INST] Hi there, how can I help? </s>"
+<s>[INST] Good to meet you! [/INST] Hello! </s>
+<s>[INST] Good to meet you! [/INST] Good to see you again! </s>
+"<s>[INST] Good to meet you! [/INST] Hi there, how can I help? </s>"
+<s>[INST] cya [/INST] Sad to see you go :( </s>
+<s>[INST] cya [/INST] Talk to you later </s>
+<s>[INST] cya [/INST] Goodbye! </s>
+<s>[INST] cya [/INST] Come back soon </s>
+<s>[INST] see you [/INST] Sad to see you go :( </s>
+<s>[INST] see you [/INST] Talk to you later </s>
+<s>[INST] see you [/INST] Goodbye! </s>
+<s>[INST] see you [/INST] Come back soon </s>
+<s>[INST] bye bye [/INST] Sad to see you go :( </s>
+<s>[INST] bye bye [/INST] Talk to you later </s>
+<s>[INST] bye bye [/INST] Goodbye! </s>
+<s>[INST] bye bye [/INST] Come back soon </s>
+<s>[INST] See you later [/INST] Sad to see you go :( </s>
+<s>[INST] See you later [/INST] Talk to you later </s>
+<s>[INST] See you later [/INST] Goodbye! </s>
+<s>[INST] See you later [/INST] Come back soon </s>
+<s>[INST] Goodbye [/INST] Sad to see you go :( </s>
+<s>[INST] Goodbye [/INST] Talk to you later </s>
+<s>[INST] Goodbye [/INST] Goodbye! </s>
+<s>[INST] Goodbye [/INST] Come back soon </s>
+<s>[INST] I am Leaving [/INST] Sad to see you go :( </s>
+<s>[INST] I am Leaving [/INST] Talk to you later </s>
+<s>[INST] I am Leaving [/INST] Goodbye! </s>
+<s>[INST] I am Leaving [/INST] Come back soon </s>
+<s>[INST] Bye [/INST] Sad to see you go :( </s>
+<s>[INST] Bye [/INST] Talk to you later </s>
+<s>[INST] Bye [/INST] Goodbye! </s>
+<s>[INST] Bye [/INST] Come back soon </s>
+<s>[INST] Have a Good day [/INST] Sad to see you go :( </s>
+<s>[INST] Have a Good day [/INST] Talk to you later </s>
+<s>[INST] Have a Good day [/INST] Goodbye! </s>
+<s>[INST] Have a Good day [/INST] Come back soon </s>
+<s>[INST] talk to you later [/INST] Sad to see you go :( </s>
+<s>[INST] talk to you later [/INST] Talk to you later </s>
+<s>[INST] talk to you later [/INST] Goodbye! </s>
+<s>[INST] talk to you later [/INST] Come back soon </s>
+<s>[INST] ttyl [/INST] Sad to see you go :( </s>
+<s>[INST] ttyl [/INST] Talk to you later </s>
+<s>[INST] ttyl [/INST] Goodbye! </s>
+<s>[INST] ttyl [/INST] Come back soon </s>
+<s>[INST] i got to go [/INST] Sad to see you go :( </s>
+<s>[INST] i got to go [/INST] Talk to you later </s>
+<s>[INST] i got to go [/INST] Goodbye! </s>
+<s>[INST] i got to go [/INST] Come back soon </s>
+<s>[INST] gtg [/INST] Sad to see you go :( </s>
+<s>[INST] gtg [/INST] Talk to you later </s>
+<s>[INST] gtg [/INST] Goodbye! </s>
+<s>[INST] gtg [/INST] Come back soon </s>
+<s>[INST] Farewell [/INST] Sad to see you go :( </s>
+<s>[INST] Farewell [/INST] Talk to you later </s>
+<s>[INST] Farewell [/INST] Goodbye! </s>
+<s>[INST] Farewell [/INST] Come back soon </s>
+<s>[INST] Take care! [/INST] Sad to see you go :( </s>
+<s>[INST] Take care! [/INST] Talk to you later </s>
+<s>[INST] Take care! [/INST] Goodbye! </s>
+<s>[INST] Take care! [/INST] Come back soon </s>
+<s>[INST] Until next time! [/INST] Sad to see you go :( </s>
+<s>[INST] Until next time! [/INST] Talk to you later </s>
+<s>[INST] Until next time! [/INST] Goodbye! </s>
+<s>[INST] Until next time! [/INST] Come back soon </s>
+<s>[INST] Bye now! [/INST] Sad to see you go :( </s>
+<s>[INST] Bye now! [/INST] Talk to you later </s>
+<s>[INST] Bye now! [/INST] Goodbye! </s>
+<s>[INST] Bye now! [/INST] Come back soon </s>
+<s>[INST] See you around! [/INST] Sad to see you go :( </s>
+<s>[INST] See you around! [/INST] Talk to you later </s>
+<s>[INST] See you around! [/INST] Goodbye! </s>
+<s>[INST] See you around! [/INST] Come back soon </s>
+<s>[INST] Goodbye friend! [/INST] Sad to see you go :( </s>
+<s>[INST] Goodbye friend! [/INST] Talk to you later </s>
+<s>[INST] Goodbye friend! [/INST] Goodbye! </s>
+<s>[INST] Goodbye friend! [/INST] Come back soon </s>
+<s>[INST] Adios! [/INST] Sad to see you go :( </s>
+<s>[INST] Adios! [/INST] Talk to you later </s>
+<s>[INST] Adios! [/INST] Goodbye! </s>
+<s>[INST] Adios! [/INST] Come back soon </s>
+<s>[INST] Catch you later! [/INST] Sad to see you go :( </s>
+<s>[INST] Catch you later! [/INST] Talk to you later </s>
+<s>[INST] Catch you later! [/INST] Goodbye! </s>
+<s>[INST] Catch you later! [/INST] Come back soon </s>
+"<s>[INST] Goodbye, have a great day! [/INST] Sad to see you go :( </s>"
+"<s>[INST] Goodbye, have a great day! [/INST] Talk to you later </s>"
+"<s>[INST] Goodbye, have a great day! [/INST] Goodbye! </s>"
+"<s>[INST] Goodbye, have a great day! [/INST] Come back soon </s>"
+<s>[INST] what is the name of your developers [/INST] College students </s>
+<s>[INST] what is the name of your creators [/INST] College students </s>
+<s>[INST] what is the name of the developers [/INST] College students </s>
+<s>[INST] what is the name of the creators [/INST] College students </s>
+<s>[INST] who created you [/INST] College students </s>
+<s>[INST] your developers [/INST] College students </s>
+<s>[INST] your creators [/INST] College students </s>
+<s>[INST] who are your developers [/INST] College students </s>
+<s>[INST] developers [/INST] College students </s>
+<s>[INST] you are made by [/INST] College students </s>
+<s>[INST] you are made by whom [/INST] College students </s>
+<s>[INST] who created you [/INST] College students </s>
+<s>[INST] who create you [/INST] College students </s>
+<s>[INST] creators [/INST] College students </s>
+<s>[INST] who made you [/INST] College students </s>
+<s>[INST] who designed you [/INST] College students </s>
+<s>[INST] who made you [/INST] College students </s>
+<s>[INST] who designed you [/INST] College students </s>
+<s>[INST] Who built you? [/INST] College students </s>
+<s>[INST] Who programmed you? [/INST] College students </s>
+<s>[INST] Who developed you? [/INST] College students </s>
+<s>[INST] Who designed you? [/INST] College students </s>
+<s>[INST] Who is behind your creation? [/INST] College students </s>
+<s>[INST] Who's responsible for creating you? [/INST] College students </s>
+<s>[INST] Who crafted you? [/INST] College students </s>
+<s>[INST] Who constructed you? [/INST] College students </s>
+<s>[INST] Who formed you? [/INST] College students </s>
+<s>[INST] Who invented you? [/INST] College students </s>
+<s>[INST] Who engineered you? [/INST] College students </s>
+<s>[INST] Who brought you into existence? [/INST] College students </s>
+<s>[INST] Who shaped you? [/INST] College students </s>
+<s>[INST] Who authored your code? [/INST] College students </s>
+<s>[INST] name [/INST] You can call me Mind Reader. </s>
+<s>[INST] name [/INST] I'm Mind Reader </s>
+<s>[INST] name [/INST] I am a Chatbot. </s>
+<s>[INST] name [/INST] I am your helper </s>
+<s>[INST] your name [/INST] You can call me Mind Reader. </s>
+<s>[INST] your name [/INST] I'm Mind Reader </s>
+<s>[INST] your name [/INST] I am a Chatbot. </s>
+<s>[INST] your name [/INST] I am your helper </s>
+<s>[INST] do you have a name [/INST] You can call me Mind Reader. </s>
+<s>[INST] do you have a name [/INST] I'm Mind Reader </s>
+<s>[INST] do you have a name [/INST] I am a Chatbot. </s>
+<s>[INST] do you have a name [/INST] I am your helper </s>
+<s>[INST] what are you called [/INST] You can call me Mind Reader. </s>
+<s>[INST] what are you called [/INST] I'm Mind Reader </s>
+<s>[INST] what are you called [/INST] I am a Chatbot. </s>
+<s>[INST] what are you called [/INST] I am your helper </s>
+<s>[INST] what is your name [/INST] You can call me Mind Reader. </s>
+<s>[INST] what is your name [/INST] I'm Mind Reader </s>
+<s>[INST] what is your name [/INST] I am a Chatbot. </s>
+<s>[INST] what is your name [/INST] I am your helper </s>
+<s>[INST] what should I call you [/INST] You can call me Mind Reader. </s>
+<s>[INST] what should I call you [/INST] I'm Mind Reader </s>
+<s>[INST] what should I call you [/INST] I am a Chatbot. </s>
+<s>[INST] what should I call you [/INST] I am your helper </s>
+<s>[INST] whats your name? [/INST] You can call me Mind Reader. </s>
+<s>[INST] whats your name? [/INST] I'm Mind Reader </s>
+<s>[INST] whats your name? [/INST] I am a Chatbot. </s>
+<s>[INST] whats your name? [/INST] I am your helper </s>
+<s>[INST] what are you [/INST] You can call me Mind Reader. </s>
+<s>[INST] what are you [/INST] I'm Mind Reader </s>
+<s>[INST] what are you [/INST] I am a Chatbot. </s>
+<s>[INST] what are you [/INST] I am your helper </s>
+<s>[INST] who are you [/INST] You can call me Mind Reader. </s>
+<s>[INST] who are you [/INST] I'm Mind Reader </s>
+<s>[INST] who are you [/INST] I am a Chatbot. </s>
+<s>[INST] who are you [/INST] I am your helper </s>
+<s>[INST] who is this [/INST] You can call me Mind Reader. </s>
+<s>[INST] who is this [/INST] I'm Mind Reader </s>
+<s>[INST] who is this [/INST] I am a Chatbot. </s>
+<s>[INST] who is this [/INST] I am your helper </s>
+<s>[INST] what am i chatting to [/INST] You can call me Mind Reader. </s>
+<s>[INST] what am i chatting to [/INST] I'm Mind Reader </s>
+<s>[INST] what am i chatting to [/INST] I am a Chatbot. </s>
+<s>[INST] what am i chatting to [/INST] I am your helper </s>
+<s>[INST] who am i taking to [/INST] You can call me Mind Reader. </s>
+<s>[INST] who am i taking to [/INST] I'm Mind Reader </s>
+<s>[INST] who am i taking to [/INST] I am a Chatbot. </s>
+<s>[INST] who am i taking to [/INST] I am your helper </s>
+<s>[INST] what are you [/INST] You can call me Mind Reader. </s>
+<s>[INST] what are you [/INST] I'm Mind Reader </s>
+<s>[INST] what are you [/INST] I am a Chatbot. </s>
+<s>[INST] what are you [/INST] I am your helper </s>
+<s>[INST] What should I name you? [/INST] You can call me Mind Reader. </s>
+<s>[INST] What should I name you? [/INST] I'm Mind Reader </s>
+<s>[INST] What should I name you? [/INST] I am a Chatbot. </s>
+<s>[INST] What should I name you? [/INST] I am your helper </s>
+<s>[INST] How should I address you? [/INST] You can call me Mind Reader. </s>
+<s>[INST] How should I address you? [/INST] I'm Mind Reader </s>
+<s>[INST] How should I address you? [/INST] I am a Chatbot. </s>
+<s>[INST] How should I address you? [/INST] I am your helper </s>
+<s>[INST] What's your moniker? [/INST] You can call me Mind Reader. </s>
+<s>[INST] What's your moniker? [/INST] I'm Mind Reader </s>
+<s>[INST] What's your moniker? [/INST] I am a Chatbot. </s>
+<s>[INST] What's your moniker? [/INST] I am your helper </s>
+<s>[INST] What do you go by? [/INST] You can call me Mind Reader. </s>
+<s>[INST] What do you go by? [/INST] I'm Mind Reader </s>
+<s>[INST] What do you go by? [/INST] I am a Chatbot. </s>
+<s>[INST] What do you go by? [/INST] I am your helper </s>
+<s>[INST] What's your designation? [/INST] You can call me Mind Reader. </s>
+<s>[INST] What's your designation? [/INST] I'm Mind Reader </s>
+<s>[INST] What's your designation? [/INST] I am a Chatbot. </s>
+<s>[INST] What's your designation? [/INST] I am your helper </s>
+<s>[INST] How can I address you? [/INST] You can call me Mind Reader. </s>
+<s>[INST] How can I address you? [/INST] I'm Mind Reader </s>
+<s>[INST] How can I address you? [/INST] I am a Chatbot. </s>
+<s>[INST] How can I address you? [/INST] I am your helper </s>
+<s>[INST] What's your label? [/INST] You can call me Mind Reader. </s>
+<s>[INST] What's your label? [/INST] I'm Mind Reader </s>
+<s>[INST] What's your label? [/INST] I am a Chatbot. </s>
+<s>[INST] What's your label? [/INST] I am your helper </s>
+<s>[INST] What's your handle? [/INST] You can call me Mind Reader. </s>
+<s>[INST] What's your handle? [/INST] I'm Mind Reader </s>
+<s>[INST] What's your handle? [/INST] I am a Chatbot. </s>
+<s>[INST] What's your handle? [/INST] I am your helper </s>
+<s>[INST] What do you answer to? [/INST] You can call me Mind Reader. </s>
+<s>[INST] What do you answer to? [/INST] I'm Mind Reader </s>
+<s>[INST] What do you answer to? [/INST] I am a Chatbot. </s>
+<s>[INST] What do you answer to? [/INST] I am your helper </s>
+<s>[INST] How do I refer to you? [/INST] You can call me Mind Reader. </s>
+<s>[INST] How do I refer to you? [/INST] I'm Mind Reader </s>
+<s>[INST] How do I refer to you? [/INST] I am a Chatbot. </s>
+<s>[INST] How do I refer to you? [/INST] I am your helper </s>
+<s>[INST] How can I call you? [/INST] You can call me Mind Reader. </s>
+<s>[INST] How can I call you? [/INST] I'm Mind Reader </s>
+<s>[INST] How can I call you? [/INST] I am a Chatbot. </s>
+<s>[INST] How can I call you? [/INST] I am your helper </s>
+<s>[INST] What are you known as? [/INST] You can call me Mind Reader. </s>
+<s>[INST] What are you known as? [/INST] I'm Mind Reader </s>
+<s>[INST] What are you known as? [/INST] I am a Chatbot. </s>
+<s>[INST] What are you known as? [/INST] I am your helper </s>
+<s>[INST] timing of college [/INST] College is open 8am-5pm Monday-Saturday! </s>
+<s>[INST] what is college timing [/INST] College is open 8am-5pm Monday-Saturday! </s>
+<s>[INST] working days [/INST] College is open 8am-5pm Monday-Saturday! </s>
+<s>[INST] when are you guys open [/INST] College is open 8am-5pm Monday-Saturday! </s>
+<s>[INST] what are your hours [/INST] College is open 8am-5pm Monday-Saturday! </s>
+<s>[INST] hours of operation [/INST] College is open 8am-5pm Monday-Saturday! </s>
+<s>[INST] when is the college open [/INST] College is open 8am-5pm Monday-Saturday! </s>
+<s>[INST] college timing [/INST] College is open 8am-5pm Monday-Saturday! </s>
+<s>[INST] what about college timing [/INST] College is open 8am-5pm Monday-Saturday! </s>
+<s>[INST] is college open on saturday [/INST] College is open 8am-5pm Monday-Saturday! </s>
+<s>[INST] tell something about college timing [/INST] College is open 8am-5pm Monday-Saturday! </s>
+<s>[INST] what is the college  hours [/INST] College is open 8am-5pm Monday-Saturday! </s>
+<s>[INST] when should i come to college [/INST] College is open 8am-5pm Monday-Saturday! </s>
+<s>[INST] when should i attend college [/INST] College is open 8am-5pm Monday-Saturday! </s>
+<s>[INST] what is my college time [/INST] College is open 8am-5pm Monday-Saturday! </s>
+<s>[INST] college timing [/INST] College is open 8am-5pm Monday-Saturday! </s>
+<s>[INST] timing college [/INST] College is open 8am-5pm Monday-Saturday! </s>
+<s>[INST] what is the college  hours [/INST] College is open 8am-5pm Monday-Saturday! </s>
+<s>[INST] when should i come to college [/INST] College is open 8am-5pm Monday-Saturday! </s>
+<s>[INST] when should i attend college [/INST] College is open 8am-5pm Monday-Saturday! </s>
+<s>[INST] what is my college time [/INST] College is open 8am-5pm Monday-Saturday! </s>
+<s>[INST] college timing [/INST] College is open 8am-5pm Monday-Saturday! </s>
+<s>[INST] timing college [/INST] College is open 8am-5pm Monday-Saturday! </s>
+<s>[INST] college operational hours [/INST] College is open 8am-5pm Monday-Saturday! </s>
+<s>[INST] when does college start [/INST] College is open 8am-5pm Monday-Saturday! </s>
+<s>[INST] when does college close [/INST] College is open 8am-5pm Monday-Saturday! </s>
+<s>[INST] college open hours [/INST] College is open 8am-5pm Monday-Saturday! </s>
+<s>[INST] college operational timing [/INST] College is open 8am-5pm Monday-Saturday! </s>
+<s>[INST] college hours [/INST] College is open 8am-5pm Monday-Saturday! </s>
+<s>[INST] what time does college start [/INST] College is open 8am-5pm Monday-Saturday! </s>
+<s>[INST] what time does college close [/INST] College is open 8am-5pm Monday-Saturday! </s>
+<s>[INST] college operating hours [/INST] College is open 8am-5pm Monday-Saturday! </s>
+<s>[INST] college opening time [/INST] College is open 8am-5pm Monday-Saturday! </s>
+<s>[INST] college closing time [/INST] College is open 8am-5pm Monday-Saturday! </s>
+<s>[INST] college work hours [/INST] College is open 8am-5pm Monday-Saturday! </s>
+<s>[INST] college operational days [/INST] College is open 8am-5pm Monday-Saturday! </s>
+<s>[INST] more info [/INST] You can contact at: NUMBER </s>
+<s>[INST] contact info [/INST] You can contact at: NUMBER </s>
+<s>[INST] how to contact college [/INST] You can contact at: NUMBER </s>
+<s>[INST] college telephone number [/INST] You can contact at: NUMBER </s>
+<s>[INST] college number [/INST] You can contact at: NUMBER </s>
+<s>[INST] What is your contact no [/INST] You can contact at: NUMBER </s>
+<s>[INST] Contact number? [/INST] You can contact at: NUMBER </s>
+<s>[INST] how to call you [/INST] You can contact at: NUMBER </s>
+<s>[INST] College phone no? [/INST] You can contact at: NUMBER </s>
+<s>[INST] how can i contact you [/INST] You can contact at: NUMBER </s>
+<s>[INST] Can i get your phone number [/INST] You can contact at: NUMBER </s>
+<s>[INST] how can i call you [/INST] You can contact at: NUMBER </s>
+<s>[INST] phone number [/INST] You can contact at: NUMBER </s>
+<s>[INST] phone no [/INST] You can contact at: NUMBER </s>
+<s>[INST] call [/INST] You can contact at: NUMBER </s>
+<s>[INST] Contact number? [/INST] You can contact at: NUMBER </s>
+<s>[INST] how to call you [/INST] You can contact at: NUMBER </s>
+<s>[INST] College phone no? [/INST] You can contact at: NUMBER </s>
+<s>[INST] how can i contact you [/INST] You can contact at: NUMBER </s>
+<s>[INST] Can i get your phone number [/INST] You can contact at: NUMBER </s>
+<s>[INST] how can i call you [/INST] You can contact at: NUMBER </s>
+<s>[INST] phone number [/INST] You can contact at: NUMBER </s>
+<s>[INST] phone no [/INST] You can contact at: NUMBER </s>
+<s>[INST] call [/INST] You can contact at: NUMBER </s>
+<s>[INST] How can I reach the college? [/INST] You can contact at: NUMBER </s>
+<s>[INST] How can I get in touch with the college? [/INST] You can contact at: NUMBER </s>
+<s>[INST] What's the contact information? [/INST] You can contact at: NUMBER </s>
+<s>[INST] How can I communicate with the college? [/INST] You can contact at: NUMBER </s>
+<s>[INST] Can I have the college's contact details? [/INST] You can contact at: NUMBER </s>
+<s>[INST] Can you provide me with the contact information? [/INST] You can contact at: NUMBER </s>
+<s>[INST] How can I reach out to the college? [/INST] You can contact at: NUMBER </s>
+<s>[INST] What's the best way to contact the college? [/INST] You can contact at: NUMBER </s>
+<s>[INST] How do I get in contact with the college? [/INST] You can contact at: NUMBER </s>
+<s>[INST] How do I connect with the college? [/INST] You can contact at: NUMBER </s>
+<s>[INST] What's the college's telephone number? [/INST] You can contact at: NUMBER </s>
+<s>[INST] Can you share the college's phone number? [/INST] You can contact at: NUMBER </s>
+<s>[INST] How do I call the college? [/INST] You can contact at: NUMBER </s>
+"<s>[INST] list of courses [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] list of courses offered [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] list of courses offered in [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] what are the courses offered in your college? [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] courses? [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] courses offered [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] courses offered in (your univrsity(UNI) name) [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] courses you offer [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] branches? [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] courses available at UNI? [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] branches available at your college? [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] what are the courses in UNI? [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] what are branches in UNI? [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] what are courses in UNI? [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] branches available in UNI? [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] can you tell me the courses available in UNI? [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] can you tell me the branches available in UNI? [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] computer engineering? [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] computer [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] Computer engineering? [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] it [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] IT [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] Information Technology [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] AI/Ml [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] Mechanical engineering [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] Chemical engineering [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] Civil engineering [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] list of courses [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] list of courses offered [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] list of courses offered in [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] what are the courses offered in your college? [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] courses? [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] courses offered [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] courses offered in (your univrsity(UNI) name) [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] courses you offer [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] branches? [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] courses available at UNI? [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] branches available at your college? [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] what are the courses in UNI? [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] what are branches in UNI? [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] what are courses in UNI? [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] branches available in UNI? [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] can you tell me the courses available in UNI? [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] can you tell me the branches available in UNI? [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] computer engineering? [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] computer [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] Computer engineering? [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] it [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] IT [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] Information Technology [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] AI/Ml [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] Mechanical engineering [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] Chemical engineering [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] Civil engineering [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] List of available courses [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] What majors does the college offer? [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] What are the academic disciplines? [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] Which fields of study are available? [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] Can you provide a list of available courses? [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] What educational programs are offered? [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] Which subjects can I study? [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] What degrees can I pursue? [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] Tell me about the courses offered [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] What educational paths are there? [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] What are the study options? [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] Which specializations can I choose from? [/INST] Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering. </s>"
+"<s>[INST] information about fee [/INST] For Fee detail visit <a target=""_blank"" href=""LINK""> here</a> </s>"
+"<s>[INST] information on fee [/INST] For Fee detail visit <a target=""_blank"" href=""LINK""> here</a> </s>"
+"<s>[INST] tell me the fee [/INST] For Fee detail visit <a target=""_blank"" href=""LINK""> here</a> </s>"
+"<s>[INST] college fee [/INST] For Fee detail visit <a target=""_blank"" href=""LINK""> here</a> </s>"
+"<s>[INST] fee per semester [/INST] For Fee detail visit <a target=""_blank"" href=""LINK""> here</a> </s>"
+"<s>[INST] what is the fee of each semester [/INST] For Fee detail visit <a target=""_blank"" href=""LINK""> here</a> </s>"
+"<s>[INST] what is the fees of each year [/INST] For Fee detail visit <a target=""_blank"" href=""LINK""> here</a> </s>"
+"<s>[INST] what is fee [/INST] For Fee detail visit <a target=""_blank"" href=""LINK""> here</a> </s>"
+"<s>[INST] what is the fees [/INST] For Fee detail visit <a target=""_blank"" href=""LINK""> here</a> </s>"
+"<s>[INST] how much is the fees [/INST] For Fee detail visit <a target=""_blank"" href=""LINK""> here</a> </s>"
+"<s>[INST] fees for first year [/INST] For Fee detail visit <a target=""_blank"" href=""LINK""> here</a> </s>"
+"<s>[INST] fees [/INST] For Fee detail visit <a target=""_blank"" href=""LINK""> here</a> </s>"
+"<s>[INST] about the fees [/INST] For Fee detail visit <a target=""_blank"" href=""LINK""> here</a> </s>"
+"<s>[INST] tell me something about the fees [/INST] For Fee detail visit <a target=""_blank"" href=""LINK""> here</a> </s>"
+"<s>[INST] What is the fees of hostel [/INST] For Fee detail visit <a target=""_blank"" href=""LINK""> here</a> </s>"
+"<s>[INST] how much is the fees [/INST] For Fee detail visit <a target=""_blank"" href=""LINK""> here</a> </s>"
+"<s>[INST] hostel fees [/INST] For Fee detail visit <a target=""_blank"" href=""LINK""> here</a> </s>"
+"<s>[INST] fees for AC room [/INST] For Fee detail visit <a target=""_blank"" href=""LINK""> here</a> </s>"
+"<s>[INST] fees for non-AC room [/INST] For Fee detail visit <a target=""_blank"" href=""LINK""> here</a> </s>"
+"<s>[INST] fees for Ac room for girls [/INST] For Fee detail visit <a target=""_blank"" href=""LINK""> here</a> </s>"
+"<s>[INST] fees for non-Ac room for girls [/INST] For Fee detail visit <a target=""_blank"" href=""LINK""> here</a> </s>"
+"<s>[INST] fees for Ac room for boys [/INST] For Fee detail visit <a target=""_blank"" href=""LINK""> here</a> </s>"
+"<s>[INST] fees for non-Ac room for boys [/INST] For Fee detail visit <a target=""_blank"" href=""LINK""> here</a> </s>"
+"<s>[INST] fees [/INST] For Fee detail visit <a target=""_blank"" href=""LINK""> here</a> </s>"
+"<s>[INST] tuition fees [/INST] For Fee detail visit <a target=""_blank"" href=""LINK""> here</a> </s>"
+"<s>[INST] fee structure [/INST] For Fee detail visit <a target=""_blank"" href=""LINK""> here</a> </s>"
+"<s>[INST] cost of attendance [/INST] For Fee detail visit <a target=""_blank"" href=""LINK""> here</a> </s>"
+"<s>[INST] how much does it cost [/INST] For Fee detail visit <a target=""_blank"" href=""LINK""> here</a> </s>"
+"<s>[INST] what are the fees [/INST] For Fee detail visit <a target=""_blank"" href=""LINK""> here</a> </s>"
+"<s>[INST] expenses [/INST] For Fee detail visit <a target=""_blank"" href=""LINK""> here</a> </s>"
+"<s>[INST] financial obligations [/INST] For Fee detail visit <a target=""_blank"" href=""LINK""> here</a> </s>"
+"<s>[INST] payments [/INST] For Fee detail visit <a target=""_blank"" href=""LINK""> here</a> </s>"
+"<s>[INST] price [/INST] For Fee detail visit <a target=""_blank"" href=""LINK""> here</a> </s>"
+"<s>[INST] how expensive is it [/INST] For Fee detail visit <a target=""_blank"" href=""LINK""> here</a> </s>"
+"<s>[INST] fee details [/INST] For Fee detail visit <a target=""_blank"" href=""LINK""> here</a> </s>"
+"<s>[INST] tuition expenses [/INST] For Fee detail visit <a target=""_blank"" href=""LINK""> here</a> </s>"
+"<s>[INST] fee breakdown [/INST] For Fee detail visit <a target=""_blank"" href=""LINK""> here</a> </s>"
+"<s>[INST] what is the cost [/INST] For Fee detail visit <a target=""_blank"" href=""LINK""> here</a> </s>"
+"<s>[INST] how much do I have to pay [/INST] For Fee detail visit <a target=""_blank"" href=""LINK""> here</a> </s>"
+"<s>[INST] tuition [/INST] For Fee detail visit <a target=""_blank"" href=""LINK""> here</a> </s>"
+"<s>[INST] what are the charges [/INST] For Fee detail visit <a target=""_blank"" href=""LINK""> here</a> </s>"
+"<s>[INST] total fees [/INST] For Fee detail visit <a target=""_blank"" href=""LINK""> here</a> </s>"
+"<s>[INST] fee information [/INST] For Fee detail visit <a target=""_blank"" href=""LINK""> here</a> </s>"
+"<s>[INST] where is the college located [/INST] <a target=""_blank"" href=""ADD YOU GOOGLE MAP LINK HERE""> here</a> </s>"
+"<s>[INST] college is located at [/INST] <a target=""_blank"" href=""ADD YOU GOOGLE MAP LINK HERE""> here</a> </s>"
+"<s>[INST] where is college [/INST] <a target=""_blank"" href=""ADD YOU GOOGLE MAP LINK HERE""> here</a> </s>"
+"<s>[INST] where is college located [/INST] <a target=""_blank"" href=""ADD YOU GOOGLE MAP LINK HERE""> here</a> </s>"
+"<s>[INST] address of college [/INST] <a target=""_blank"" href=""ADD YOU GOOGLE MAP LINK HERE""> here</a> </s>"
+"<s>[INST] how to reach college [/INST] <a target=""_blank"" href=""ADD YOU GOOGLE MAP LINK HERE""> here</a> </s>"
+"<s>[INST] college location [/INST] <a target=""_blank"" href=""ADD YOU GOOGLE MAP LINK HERE""> here</a> </s>"
+"<s>[INST] college address [/INST] <a target=""_blank"" href=""ADD YOU GOOGLE MAP LINK HERE""> here</a> </s>"
+"<s>[INST] wheres the college [/INST] <a target=""_blank"" href=""ADD YOU GOOGLE MAP LINK HERE""> here</a> </s>"
+"<s>[INST] how can I reach college [/INST] <a target=""_blank"" href=""ADD YOU GOOGLE MAP LINK HERE""> here</a> </s>"
+"<s>[INST] whats is the college address [/INST] <a target=""_blank"" href=""ADD YOU GOOGLE MAP LINK HERE""> here</a> </s>"
+"<s>[INST] what is the address of college [/INST] <a target=""_blank"" href=""ADD YOU GOOGLE MAP LINK HERE""> here</a> </s>"
+"<s>[INST] address [/INST] <a target=""_blank"" href=""ADD YOU GOOGLE MAP LINK HERE""> here</a> </s>"
+"<s>[INST] location [/INST] <a target=""_blank"" href=""ADD YOU GOOGLE MAP LINK HERE""> here</a> </s>"
+"<s>[INST] how do I find the college [/INST] <a target=""_blank"" href=""ADD YOU GOOGLE MAP LINK HERE""> here</a> </s>"
+"<s>[INST] how can I locate the college [/INST] <a target=""_blank"" href=""ADD YOU GOOGLE MAP LINK HERE""> here</a> </s>"
+"<s>[INST] where can I find the college [/INST] <a target=""_blank"" href=""ADD YOU GOOGLE MAP LINK HERE""> here</a> </s>"
+"<s>[INST] directions to the college [/INST] <a target=""_blank"" href=""ADD YOU GOOGLE MAP LINK HERE""> here</a> </s>"
+"<s>[INST] how to get to the college [/INST] <a target=""_blank"" href=""ADD YOU GOOGLE MAP LINK HERE""> here</a> </s>"
+"<s>[INST] whereabouts of the college [/INST] <a target=""_blank"" href=""ADD YOU GOOGLE MAP LINK HERE""> here</a> </s>"
+"<s>[INST] hostel facility [/INST] For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a> </s>"
+"<s>[INST] hostel service [/INST] For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a> </s>"
+"<s>[INST] hostel location [/INST] For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a> </s>"
+"<s>[INST] hostel address [/INST] For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a> </s>"
+"<s>[INST] hostel facilities [/INST] For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a> </s>"
+"<s>[INST] hostel fees [/INST] For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a> </s>"
+"<s>[INST] Does college provide hostel [/INST] For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a> </s>"
+"<s>[INST] Is there any hostel [/INST] For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a> </s>"
+"<s>[INST] Where is hostel [/INST] For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a> </s>"
+"<s>[INST] do you have hostel [/INST] For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a> </s>"
+"<s>[INST] do you guys have hostel [/INST] For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a> </s>"
+"<s>[INST] hostel [/INST] For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a> </s>"
+"<s>[INST] hostel capacity [/INST] For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a> </s>"
+"<s>[INST] what is the hostel fee [/INST] For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a> </s>"
+"<s>[INST] how to get in hostel [/INST] For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a> </s>"
+"<s>[INST] what is the hostel address [/INST] For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a> </s>"
+"<s>[INST] how far is hostel from college [/INST] For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a> </s>"
+"<s>[INST] hostel college distance [/INST] For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a> </s>"
+"<s>[INST] where is the hostel [/INST] For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a> </s>"
+"<s>[INST] how big is the hostel [/INST] For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a> </s>"
+"<s>[INST] distance between college and hostel [/INST] For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a> </s>"
+"<s>[INST] distance between hostel and college [/INST] For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a> </s>"
+"<s>[INST] accommodation facility [/INST] For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a> </s>"
+"<s>[INST] hostel availability [/INST] For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a> </s>"
+"<s>[INST] availability of hostel rooms [/INST] For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a> </s>"
+"<s>[INST] hostel room types [/INST] For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a> </s>"
+"<s>[INST] hostel room allocation [/INST] For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a> </s>"
+"<s>[INST] hostel room booking [/INST] For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a> </s>"
+"<s>[INST] how to book hostel room [/INST] For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a> </s>"
+"<s>[INST] hostel amenities [/INST] For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a> </s>"
+"<s>[INST] events organised [/INST] For event detail visit <a target=""_blank"" href=""ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE""> here</a> </s>"
+"<s>[INST] list of events [/INST] For event detail visit <a target=""_blank"" href=""ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE""> here</a> </s>"
+"<s>[INST] list of events organised in college [/INST] For event detail visit <a target=""_blank"" href=""ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE""> here</a> </s>"
+"<s>[INST] list of events conducted in college [/INST] For event detail visit <a target=""_blank"" href=""ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE""> here</a> </s>"
+"<s>[INST] What events are conducted in college [/INST] For event detail visit <a target=""_blank"" href=""ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE""> here</a> </s>"
+"<s>[INST] Are there any event held at college [/INST] For event detail visit <a target=""_blank"" href=""ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE""> here</a> </s>"
+"<s>[INST] Events? [/INST] For event detail visit <a target=""_blank"" href=""ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE""> here</a> </s>"
+"<s>[INST] functions [/INST] For event detail visit <a target=""_blank"" href=""ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE""> here</a> </s>"
+"<s>[INST] what are the events [/INST] For event detail visit <a target=""_blank"" href=""ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE""> here</a> </s>"
+"<s>[INST] tell me about events [/INST] For event detail visit <a target=""_blank"" href=""ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE""> here</a> </s>"
+"<s>[INST] what about events [/INST] For event detail visit <a target=""_blank"" href=""ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE""> here</a> </s>"
+"<s>[INST] upcoming events [/INST] For event detail visit <a target=""_blank"" href=""ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE""> here</a> </s>"
+"<s>[INST] college events [/INST] For event detail visit <a target=""_blank"" href=""ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE""> here</a> </s>"
+"<s>[INST] any events happening [/INST] For event detail visit <a target=""_blank"" href=""ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE""> here</a> </s>"
+"<s>[INST] events calendar [/INST] For event detail visit <a target=""_blank"" href=""ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE""> here</a> </s>"
+"<s>[INST] student events [/INST] For event detail visit <a target=""_blank"" href=""ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE""> here</a> </s>"
+"<s>[INST] cultural events [/INST] For event detail visit <a target=""_blank"" href=""ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE""> here</a> </s>"
+"<s>[INST] academic events [/INST] For event detail visit <a target=""_blank"" href=""ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE""> here</a> </s>"
+"<s>[INST] sports events [/INST] For event detail visit <a target=""_blank"" href=""ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE""> here</a> </s>"
+"<s>[INST] campus activities [/INST] For event detail visit <a target=""_blank"" href=""ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE""> here</a> </s>"
+"<s>[INST] document to bring [/INST] To know more about document required visit <a target=""_blank"" href=""ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE""> here</a> </s>"
+"<s>[INST] documents needed for admission [/INST] To know more about document required visit <a target=""_blank"" href=""ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE""> here</a> </s>"
+"<s>[INST] documents needed at the time of admission [/INST] To know more about document required visit <a target=""_blank"" href=""ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE""> here</a> </s>"
+"<s>[INST] documents needed during admission [/INST] To know more about document required visit <a target=""_blank"" href=""ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE""> here</a> </s>"
+"<s>[INST] documents required for admission [/INST] To know more about document required visit <a target=""_blank"" href=""ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE""> here</a> </s>"
+"<s>[INST] documents required at the time of admission [/INST] To know more about document required visit <a target=""_blank"" href=""ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE""> here</a> </s>"
+"<s>[INST] documents required during admission [/INST] To know more about document required visit <a target=""_blank"" href=""ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE""> here</a> </s>"
+"<s>[INST] What documents are required for admission [/INST] To know more about document required visit <a target=""_blank"" href=""ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE""> here</a> </s>"
+"<s>[INST] Which documents to bring for admission [/INST] To know more about document required visit <a target=""_blank"" href=""ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE""> here</a> </s>"
+"<s>[INST] documents [/INST] To know more about document required visit <a target=""_blank"" href=""ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE""> here</a> </s>"
+"<s>[INST] what documents do I need [/INST] To know more about document required visit <a target=""_blank"" href=""ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE""> here</a> </s>"
+"<s>[INST] what documents do I need for admission [/INST] To know more about document required visit <a target=""_blank"" href=""ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE""> here</a> </s>"
+"<s>[INST] documents needed [/INST] To know more about document required visit <a target=""_blank"" href=""ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE""> here</a> </s>"
+"<s>[INST] admission documents [/INST] To know more about document required visit <a target=""_blank"" href=""ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE""> here</a> </s>"
+"<s>[INST] necessary documents [/INST] To know more about document required visit <a target=""_blank"" href=""ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE""> here</a> </s>"
+"<s>[INST] required paperwork [/INST] To know more about document required visit <a target=""_blank"" href=""ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE""> here</a> </s>"
+"<s>[INST] admission paperwork [/INST] To know more about document required visit <a target=""_blank"" href=""ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE""> here</a> </s>"
+"<s>[INST] documentation [/INST] To know more about document required visit <a target=""_blank"" href=""ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE""> here</a> </s>"
+"<s>[INST] admission requirements [/INST] To know more about document required visit <a target=""_blank"" href=""ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE""> here</a> </s>"
+"<s>[INST] admission criteria [/INST] To know more about document required visit <a target=""_blank"" href=""ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE""> here</a> </s>"
+<s>[INST] size of campus [/INST] My College has total 2 floors </s>
+<s>[INST] building size [/INST] My College has total 2 floors </s>
+<s>[INST] How many floors does college have [/INST] My College has total 2 floors </s>
+<s>[INST] floors in college [/INST] My College has total 2 floors </s>
+<s>[INST] how tall is UNI's College of Engineering college building [/INST] My College has total 2 floors </s>
+<s>[INST] floors [/INST] My College has total 2 floors </s>
+<s>[INST] college building height [/INST] My College has total 2 floors </s>
+<s>[INST] number of floors [/INST] My College has total 2 floors </s>
+<s>[INST] campus area [/INST] My College has total 2 floors </s>
+<s>[INST] building floors [/INST] My College has total 2 floors </s>
+<s>[INST] college infrastructure [/INST] My College has total 2 floors </s>
+<s>[INST] campus size [/INST] My College has total 2 floors </s>
+<s>[INST] height of the building [/INST] My College has total 2 floors </s>
+<s>[INST] college campus dimensions [/INST] My College has total 2 floors </s>
+<s>[INST] college building [/INST] My College has total 2 floors </s>
+<s>[INST] number of stories [/INST] My College has total 2 floors </s>
+<s>[INST] college structure [/INST] My College has total 2 floors </s>
+<s>[INST] college premises size [/INST] My College has total 2 floors </s>
+<s>[INST] college construction [/INST] My College has total 2 floors </s>
+<s>[INST] college building levels [/INST] My College has total 2 floors </s>
+"<s>[INST] Syllabus for IT [/INST] Timetable provide direct to the students OR To know about syllabus visit <a target=""_blank"" href=""TIMETABLE LINK""> here</a> </s>"
+"<s>[INST] what is the Information Technology syllabus [/INST] Timetable provide direct to the students OR To know about syllabus visit <a target=""_blank"" href=""TIMETABLE LINK""> here</a> </s>"
+"<s>[INST] syllabus [/INST] Timetable provide direct to the students OR To know about syllabus visit <a target=""_blank"" href=""TIMETABLE LINK""> here</a> </s>"
+"<s>[INST] timetable [/INST] Timetable provide direct to the students OR To know about syllabus visit <a target=""_blank"" href=""TIMETABLE LINK""> here</a> </s>"
+"<s>[INST] what is IT syllabus [/INST] Timetable provide direct to the students OR To know about syllabus visit <a target=""_blank"" href=""TIMETABLE LINK""> here</a> </s>"
+"<s>[INST] syllabus [/INST] Timetable provide direct to the students OR To know about syllabus visit <a target=""_blank"" href=""TIMETABLE LINK""> here</a> </s>"
+"<s>[INST] What is next lecture [/INST] Timetable provide direct to the students OR To know about syllabus visit <a target=""_blank"" href=""TIMETABLE LINK""> here</a> </s>"
+"<s>[INST] What topics are covered in the IT syllabus [/INST] Timetable provide direct to the students OR To know about syllabus visit <a target=""_blank"" href=""TIMETABLE LINK""> here</a> </s>"
+"<s>[INST] Curriculum for Information Technology [/INST] Timetable provide direct to the students OR To know about syllabus visit <a target=""_blank"" href=""TIMETABLE LINK""> here</a> </s>"
+"<s>[INST] Course outline for IT [/INST] Timetable provide direct to the students OR To know about syllabus visit <a target=""_blank"" href=""TIMETABLE LINK""> here</a> </s>"
+"<s>[INST] What will we study in IT [/INST] Timetable provide direct to the students OR To know about syllabus visit <a target=""_blank"" href=""TIMETABLE LINK""> here</a> </s>"
+"<s>[INST] Subject details for Information Technology [/INST] Timetable provide direct to the students OR To know about syllabus visit <a target=""_blank"" href=""TIMETABLE LINK""> here</a> </s>"
+"<s>[INST] IT syllabus details [/INST] Timetable provide direct to the students OR To know about syllabus visit <a target=""_blank"" href=""TIMETABLE LINK""> here</a> </s>"
+"<s>[INST] Information Technology curriculum [/INST] Timetable provide direct to the students OR To know about syllabus visit <a target=""_blank"" href=""TIMETABLE LINK""> here</a> </s>"
+"<s>[INST] IT course content [/INST] Timetable provide direct to the students OR To know about syllabus visit <a target=""_blank"" href=""TIMETABLE LINK""> here</a> </s>"
+"<s>[INST] Course structure for IT [/INST] Timetable provide direct to the students OR To know about syllabus visit <a target=""_blank"" href=""TIMETABLE LINK""> here</a> </s>"
+"<s>[INST] Information Technology program details [/INST] Timetable provide direct to the students OR To know about syllabus visit <a target=""_blank"" href=""TIMETABLE LINK""> here</a> </s>"
+"<s>[INST] Syllabus for the current semester [/INST] Timetable provide direct to the students OR To know about syllabus visit <a target=""_blank"" href=""TIMETABLE LINK""> here</a> </s>"
+"<s>[INST] IT subjects [/INST] Timetable provide direct to the students OR To know about syllabus visit <a target=""_blank"" href=""TIMETABLE LINK""> here</a> </s>"
+"<s>[INST] IT modules [/INST] Timetable provide direct to the students OR To know about syllabus visit <a target=""_blank"" href=""TIMETABLE LINK""> here</a> </s>"
+"<s>[INST] is there any library [/INST] There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=""blank"" href=""ADD LIBRARY DETAIL LINK"">here</a> </s>"
+"<s>[INST] library facility [/INST] There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=""blank"" href=""ADD LIBRARY DETAIL LINK"">here</a> </s>"
+"<s>[INST] library facilities [/INST] There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=""blank"" href=""ADD LIBRARY DETAIL LINK"">here</a> </s>"
+"<s>[INST] do you have library [/INST] There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=""blank"" href=""ADD LIBRARY DETAIL LINK"">here</a> </s>"
+"<s>[INST] does the college have library facility [/INST] There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=""blank"" href=""ADD LIBRARY DETAIL LINK"">here</a> </s>"
+"<s>[INST] college library [/INST] There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=""blank"" href=""ADD LIBRARY DETAIL LINK"">here</a> </s>"
+"<s>[INST] where can i get books [/INST] There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=""blank"" href=""ADD LIBRARY DETAIL LINK"">here</a> </s>"
+"<s>[INST] book facility [/INST] There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=""blank"" href=""ADD LIBRARY DETAIL LINK"">here</a> </s>"
+"<s>[INST] Where is library [/INST] There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=""blank"" href=""ADD LIBRARY DETAIL LINK"">here</a> </s>"
+"<s>[INST] Library [/INST] There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=""blank"" href=""ADD LIBRARY DETAIL LINK"">here</a> </s>"
+"<s>[INST] Library information [/INST] There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=""blank"" href=""ADD LIBRARY DETAIL LINK"">here</a> </s>"
+"<s>[INST] Library books information [/INST] There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=""blank"" href=""ADD LIBRARY DETAIL LINK"">here</a> </s>"
+"<s>[INST] Tell me about library [/INST] There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=""blank"" href=""ADD LIBRARY DETAIL LINK"">here</a> </s>"
+"<s>[INST] how many libraries [/INST] There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=""blank"" href=""ADD LIBRARY DETAIL LINK"">here</a> </s>"
+"<s>[INST] Library hours [/INST] There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=""blank"" href=""ADD LIBRARY DETAIL LINK"">here</a> </s>"
+"<s>[INST] Library services [/INST] There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=""blank"" href=""ADD LIBRARY DETAIL LINK"">here</a> </s>"
+"<s>[INST] Library resources [/INST] There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=""blank"" href=""ADD LIBRARY DETAIL LINK"">here</a> </s>"
+"<s>[INST] Library location [/INST] There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=""blank"" href=""ADD LIBRARY DETAIL LINK"">here</a> </s>"
+"<s>[INST] Library catalog [/INST] There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=""blank"" href=""ADD LIBRARY DETAIL LINK"">here</a> </s>"
+"<s>[INST] Library study spaces [/INST] There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=""blank"" href=""ADD LIBRARY DETAIL LINK"">here</a> </s>"
+<s>[INST] how is college infrastructure [/INST] Our University has Excellent Infrastructure. Campus is clean. Good IT Labs With Good Speed of Internet connection </s>
+<s>[INST] infrastructure [/INST] Our University has Excellent Infrastructure. Campus is clean. Good IT Labs With Good Speed of Internet connection </s>
+<s>[INST] college infrastructure [/INST] Our University has Excellent Infrastructure. Campus is clean. Good IT Labs With Good Speed of Internet connection </s>
+<s>[INST] How are the facilities at the college [/INST] Our University has Excellent Infrastructure. Campus is clean. Good IT Labs With Good Speed of Internet connection </s>
+<s>[INST] facilities [/INST] Our University has Excellent Infrastructure. Campus is clean. Good IT Labs With Good Speed of Internet connection </s>
+<s>[INST] college facilities [/INST] Our University has Excellent Infrastructure. Campus is clean. Good IT Labs With Good Speed of Internet connection </s>
+<s>[INST] What are the amenities available on campus [/INST] Our University has Excellent Infrastructure. Campus is clean. Good IT Labs With Good Speed of Internet connection </s>
+<s>[INST] campus infrastructure [/INST] Our University has Excellent Infrastructure. Campus is clean. Good IT Labs With Good Speed of Internet connection </s>
+<s>[INST] college amenities [/INST] Our University has Excellent Infrastructure. Campus is clean. Good IT Labs With Good Speed of Internet connection </s>
+<s>[INST] infrastructure details [/INST] Our University has Excellent Infrastructure. Campus is clean. Good IT Labs With Good Speed of Internet connection </s>
+<s>[INST] college premises [/INST] Our University has Excellent Infrastructure. Campus is clean. Good IT Labs With Good Speed of Internet connection </s>
+<s>[INST] What kind of infrastructure does the college have [/INST] Our University has Excellent Infrastructure. Campus is clean. Good IT Labs With Good Speed of Internet connection </s>
+<s>[INST] college buildings [/INST] Our University has Excellent Infrastructure. Campus is clean. Good IT Labs With Good Speed of Internet connection </s>
+<s>[INST] facilities available [/INST] Our University has Excellent Infrastructure. Campus is clean. Good IT Labs With Good Speed of Internet connection </s>
+<s>[INST] college equipment [/INST] Our University has Excellent Infrastructure. Campus is clean. Good IT Labs With Good Speed of Internet connection </s>
+<s>[INST] technical facilities [/INST] Our University has Excellent Infrastructure. Campus is clean. Good IT Labs With Good Speed of Internet connection </s>
+<s>[INST] campus amenities [/INST] Our University has Excellent Infrastructure. Campus is clean. Good IT Labs With Good Speed of Internet connection </s>
+<s>[INST] What is the quality of college infrastructure [/INST] Our University has Excellent Infrastructure. Campus is clean. Good IT Labs With Good Speed of Internet connection </s>
+<s>[INST] college resources [/INST] Our University has Excellent Infrastructure. Campus is clean. Good IT Labs With Good Speed of Internet connection </s>
+<s>[INST] college setup [/INST] Our University has Excellent Infrastructure. Campus is clean. Good IT Labs With Good Speed of Internet connection </s>
+<s>[INST] food facilities [/INST] Our university has canteen with variety of food available </s>
+<s>[INST] canteen facilities [/INST] Our university has canteen with variety of food available </s>
+<s>[INST] canteen facility [/INST] Our university has canteen with variety of food available </s>
+<s>[INST] is there any canteen [/INST] Our university has canteen with variety of food available </s>
+<s>[INST] Is there a cafetaria in college [/INST] Our university has canteen with variety of food available </s>
+<s>[INST] Does college have canteen [/INST] Our university has canteen with variety of food available </s>
+<s>[INST] Where is canteen [/INST] Our university has canteen with variety of food available </s>
+<s>[INST] where is cafetaria [/INST] Our university has canteen with variety of food available </s>
+<s>[INST] canteen [/INST] Our university has canteen with variety of food available </s>
+<s>[INST] Food [/INST] Our university has canteen with variety of food available </s>
+<s>[INST] Cafetaria [/INST] Our university has canteen with variety of food available </s>
+<s>[INST] canteen location [/INST] Our university has canteen with variety of food available </s>
+<s>[INST] food options [/INST] Our university has canteen with variety of food available </s>
+<s>[INST] canteen hours [/INST] Our university has canteen with variety of food available </s>
+<s>[INST] canteen services [/INST] Our university has canteen with variety of food available </s>
+<s>[INST] canteen menu [/INST] Our university has canteen with variety of food available </s>
+<s>[INST] food variety [/INST] Our university has canteen with variety of food available </s>
+<s>[INST] what is served in canteen [/INST] Our university has canteen with variety of food available </s>
+<s>[INST] food options in college [/INST] Our university has canteen with variety of food available </s>
+<s>[INST] canteen timings [/INST] Our university has canteen with variety of food available </s>
+"<s>[INST] food menu [/INST] we serve Franky, Locho, Alu-puri, Kachori, Khavsa, Thaali and many more on menu </s>"
+"<s>[INST] food in canteen [/INST] we serve Franky, Locho, Alu-puri, Kachori, Khavsa, Thaali and many more on menu </s>"
+"<s>[INST] Whats there on menu [/INST] we serve Franky, Locho, Alu-puri, Kachori, Khavsa, Thaali and many more on menu </s>"
+"<s>[INST] what is available in college canteen [/INST] we serve Franky, Locho, Alu-puri, Kachori, Khavsa, Thaali and many more on menu </s>"
+"<s>[INST] what foods can we get in college canteen [/INST] we serve Franky, Locho, Alu-puri, Kachori, Khavsa, Thaali and many more on menu </s>"
+"<s>[INST] food variety [/INST] we serve Franky, Locho, Alu-puri, Kachori, Khavsa, Thaali and many more on menu </s>"
+"<s>[INST] What is there to eat? [/INST] we serve Franky, Locho, Alu-puri, Kachori, Khavsa, Thaali and many more on menu </s>"
+"<s>[INST] menu [/INST] we serve Franky, Locho, Alu-puri, Kachori, Khavsa, Thaali and many more on menu </s>"
+"<s>[INST] canteen menu [/INST] we serve Franky, Locho, Alu-puri, Kachori, Khavsa, Thaali and many more on menu </s>"
+"<s>[INST] canteen food [/INST] we serve Franky, Locho, Alu-puri, Kachori, Khavsa, Thaali and many more on menu </s>"
+"<s>[INST] canteen options [/INST] we serve Franky, Locho, Alu-puri, Kachori, Khavsa, Thaali and many more on menu </s>"
+"<s>[INST] what dishes are available [/INST] we serve Franky, Locho, Alu-puri, Kachori, Khavsa, Thaali and many more on menu </s>"
+"<s>[INST] food selection [/INST] we serve Franky, Locho, Alu-puri, Kachori, Khavsa, Thaali and many more on menu </s>"
+"<s>[INST] menu options [/INST] we serve Franky, Locho, Alu-puri, Kachori, Khavsa, Thaali and many more on menu </s>"
+"<s>[INST] food items [/INST] we serve Franky, Locho, Alu-puri, Kachori, Khavsa, Thaali and many more on menu </s>"
+"<s>[INST] what can I order [/INST] we serve Franky, Locho, Alu-puri, Kachori, Khavsa, Thaali and many more on menu </s>"
+"<s>[INST] canteen specialties [/INST] we serve Franky, Locho, Alu-puri, Kachori, Khavsa, Thaali and many more on menu </s>"
+"<s>[INST] canteen offerings [/INST] we serve Franky, Locho, Alu-puri, Kachori, Khavsa, Thaali and many more on menu </s>"
+"<s>[INST] what's on the menu [/INST] we serve Franky, Locho, Alu-puri, Kachori, Khavsa, Thaali and many more on menu </s>"
+"<s>[INST] food choices [/INST] we serve Franky, Locho, Alu-puri, Kachori, Khavsa, Thaali and many more on menu </s>"
+"<s>[INST] What is college placement [/INST] To know about placement visit <a target=""_blank"" href=""PLACEMENT INFORMATION LINK FROM YOUR UNIVERSITY WEBSITE IF THEY HAVE"">here</a> </s>"
+"<s>[INST] Which companies visit in college [/INST] To know about placement visit <a target=""_blank"" href=""PLACEMENT INFORMATION LINK FROM YOUR UNIVERSITY WEBSITE IF THEY HAVE"">here</a> </s>"
+"<s>[INST] What is average package [/INST] To know about placement visit <a target=""_blank"" href=""PLACEMENT INFORMATION LINK FROM YOUR UNIVERSITY WEBSITE IF THEY HAVE"">here</a> </s>"
+"<s>[INST] companies visit [/INST] To know about placement visit <a target=""_blank"" href=""PLACEMENT INFORMATION LINK FROM YOUR UNIVERSITY WEBSITE IF THEY HAVE"">here</a> </s>"
+"<s>[INST] package [/INST] To know about placement visit <a target=""_blank"" href=""PLACEMENT INFORMATION LINK FROM YOUR UNIVERSITY WEBSITE IF THEY HAVE"">here</a> </s>"
+"<s>[INST] About placement [/INST] To know about placement visit <a target=""_blank"" href=""PLACEMENT INFORMATION LINK FROM YOUR UNIVERSITY WEBSITE IF THEY HAVE"">here</a> </s>"
+"<s>[INST] placement [/INST] To know about placement visit <a target=""_blank"" href=""PLACEMENT INFORMATION LINK FROM YOUR UNIVERSITY WEBSITE IF THEY HAVE"">here</a> </s>"
+"<s>[INST] recruitment [/INST] To know about placement visit <a target=""_blank"" href=""PLACEMENT INFORMATION LINK FROM YOUR UNIVERSITY WEBSITE IF THEY HAVE"">here</a> </s>"
+"<s>[INST] companies [/INST] To know about placement visit <a target=""_blank"" href=""PLACEMENT INFORMATION LINK FROM YOUR UNIVERSITY WEBSITE IF THEY HAVE"">here</a> </s>"
+"<s>[INST] Placement opportunities [/INST] To know about placement visit <a target=""_blank"" href=""PLACEMENT INFORMATION LINK FROM YOUR UNIVERSITY WEBSITE IF THEY HAVE"">here</a> </s>"
+"<s>[INST] job placements [/INST] To know about placement visit <a target=""_blank"" href=""PLACEMENT INFORMATION LINK FROM YOUR UNIVERSITY WEBSITE IF THEY HAVE"">here</a> </s>"
+"<s>[INST] career opportunities [/INST] To know about placement visit <a target=""_blank"" href=""PLACEMENT INFORMATION LINK FROM YOUR UNIVERSITY WEBSITE IF THEY HAVE"">here</a> </s>"
+"<s>[INST] placement cell [/INST] To know about placement visit <a target=""_blank"" href=""PLACEMENT INFORMATION LINK FROM YOUR UNIVERSITY WEBSITE IF THEY HAVE"">here</a> </s>"
+"<s>[INST] placement details [/INST] To know about placement visit <a target=""_blank"" href=""PLACEMENT INFORMATION LINK FROM YOUR UNIVERSITY WEBSITE IF THEY HAVE"">here</a> </s>"
+"<s>[INST] placement assistance [/INST] To know about placement visit <a target=""_blank"" href=""PLACEMENT INFORMATION LINK FROM YOUR UNIVERSITY WEBSITE IF THEY HAVE"">here</a> </s>"
+"<s>[INST] recruiters [/INST] To know about placement visit <a target=""_blank"" href=""PLACEMENT INFORMATION LINK FROM YOUR UNIVERSITY WEBSITE IF THEY HAVE"">here</a> </s>"
+"<s>[INST] campus recruitment [/INST] To know about placement visit <a target=""_blank"" href=""PLACEMENT INFORMATION LINK FROM YOUR UNIVERSITY WEBSITE IF THEY HAVE"">here</a> </s>"
+"<s>[INST] placement process [/INST] To know about placement visit <a target=""_blank"" href=""PLACEMENT INFORMATION LINK FROM YOUR UNIVERSITY WEBSITE IF THEY HAVE"">here</a> </s>"
+"<s>[INST] internship opportunities [/INST] To know about placement visit <a target=""_blank"" href=""PLACEMENT INFORMATION LINK FROM YOUR UNIVERSITY WEBSITE IF THEY HAVE"">here</a> </s>"
+"<s>[INST] career prospects [/INST] To know about placement visit <a target=""_blank"" href=""PLACEMENT INFORMATION LINK FROM YOUR UNIVERSITY WEBSITE IF THEY HAVE"">here</a> </s>"
+<s>[INST] Who is HOD [/INST] All engineering departments have only one hod XYZ who available on (Place name) </s>
+<s>[INST] Where is HOD [/INST] All engineering departments have only one hod XYZ who available on (Place name) </s>
+<s>[INST] it hod [/INST] All engineering departments have only one hod XYZ who available on (Place name) </s>
+<s>[INST] name of it hod [/INST] All engineering departments have only one hod XYZ who available on (Place name) </s>
+<s>[INST] IT department head [/INST] All engineering departments have only one hod XYZ who available on (Place name) </s>
+<s>[INST] head of IT department [/INST] All engineering departments have only one hod XYZ who available on (Place name) </s>
+<s>[INST] IT HOD's name [/INST] All engineering departments have only one hod XYZ who available on (Place name) </s>
+<s>[INST] HOD IT [/INST] All engineering departments have only one hod XYZ who available on (Place name) </s>
+<s>[INST] it hod details [/INST] All engineering departments have only one hod XYZ who available on (Place name) </s>
+<s>[INST] information about it hod [/INST] All engineering departments have only one hod XYZ who available on (Place name) </s>
+<s>[INST] IT department head information [/INST] All engineering departments have only one hod XYZ who available on (Place name) </s>
+<s>[INST] it hod contact details [/INST] All engineering departments have only one hod XYZ who available on (Place name) </s>
+<s>[INST] HOD IT contact information [/INST] All engineering departments have only one hod XYZ who available on (Place name) </s>
+<s>[INST] it hod responsibilities [/INST] All engineering departments have only one hod XYZ who available on (Place name) </s>
+<s>[INST] HOD IT responsibilities [/INST] All engineering departments have only one hod XYZ who available on (Place name) </s>
+<s>[INST] it hod qualifications [/INST] All engineering departments have only one hod XYZ who available on (Place name) </s>
+<s>[INST] HOD IT qualifications [/INST] All engineering departments have only one hod XYZ who available on (Place name) </s>
+<s>[INST] it hod experience [/INST] All engineering departments have only one hod XYZ who available on (Place name) </s>
+<s>[INST] HOD IT experience [/INST] All engineering departments have only one hod XYZ who available on (Place name) </s>
+<s>[INST] it hod office hours [/INST] All engineering departments have only one hod XYZ who available on (Place name) </s>
+<s>[INST] Who is computer HOD [/INST] All engineering departments have only one hod XYZ who available on (PLACE NAME) </s>
+<s>[INST] Where is computer HOD [/INST] All engineering departments have only one hod XYZ who available on (PLACE NAME) </s>
+<s>[INST] computer hod [/INST] All engineering departments have only one hod XYZ who available on (PLACE NAME) </s>
+<s>[INST] name of computer hod [/INST] All engineering departments have only one hod XYZ who available on (PLACE NAME) </s>
+<s>[INST] computer science department head [/INST] All engineering departments have only one hod XYZ who available on (PLACE NAME) </s>
+<s>[INST] head of computer science department [/INST] All engineering departments have only one hod XYZ who available on (PLACE NAME) </s>
+<s>[INST] computer HOD's name [/INST] All engineering departments have only one hod XYZ who available on (PLACE NAME) </s>
+<s>[INST] HOD computer science [/INST] All engineering departments have only one hod XYZ who available on (PLACE NAME) </s>
+<s>[INST] computer hod details [/INST] All engineering departments have only one hod XYZ who available on (PLACE NAME) </s>
+<s>[INST] information about computer hod [/INST] All engineering departments have only one hod XYZ who available on (PLACE NAME) </s>
+<s>[INST] computer science department head information [/INST] All engineering departments have only one hod XYZ who available on (PLACE NAME) </s>
+<s>[INST] computer hod contact details [/INST] All engineering departments have only one hod XYZ who available on (PLACE NAME) </s>
+<s>[INST] HOD computer science contact information [/INST] All engineering departments have only one hod XYZ who available on (PLACE NAME) </s>
+<s>[INST] computer hod responsibilities [/INST] All engineering departments have only one hod XYZ who available on (PLACE NAME) </s>
+<s>[INST] HOD computer science responsibilities [/INST] All engineering departments have only one hod XYZ who available on (PLACE NAME) </s>
+<s>[INST] computer hod qualifications [/INST] All engineering departments have only one hod XYZ who available on (PLACE NAME) </s>
+<s>[INST] HOD computer science qualifications [/INST] All engineering departments have only one hod XYZ who available on (PLACE NAME) </s>
+<s>[INST] computer hod experience [/INST] All engineering departments have only one hod XYZ who available on (PLACE NAME) </s>
+<s>[INST] HOD computer science experience [/INST] All engineering departments have only one hod XYZ who available on (PLACE NAME) </s>
+<s>[INST] computer hod office hours [/INST] All engineering departments have only one hod XYZ who available on (PLACE NAME) </s>
+<s>[INST] Who is extc HOD [/INST] Different school wise hod are different.So be more clear with your school or department </s>
+<s>[INST] Where is extc HOD [/INST] Different school wise hod are different.So be more clear with your school or department </s>
+<s>[INST] extc hod [/INST] Different school wise hod are different.So be more clear with your school or department </s>
+<s>[INST] name of extc hod [/INST] Different school wise hod are different.So be more clear with your school or department </s>
+<s>[INST] Who is head of department in electronics and telecommunication [/INST] Different school wise hod are different.So be more clear with your school or department </s>
+<s>[INST] extc department head [/INST] Different school wise hod are different.So be more clear with your school or department </s>
+<s>[INST] head of extc department [/INST] Different school wise hod are different.So be more clear with your school or department </s>
+<s>[INST] extc faculty head [/INST] Different school wise hod are different.So be more clear with your school or department </s>
+<s>[INST] extc head [/INST] Different school wise hod are different.So be more clear with your school or department </s>
+<s>[INST] extc department leader [/INST] Different school wise hod are different.So be more clear with your school or department </s>
+<s>[INST] extc department supervisor [/INST] Different school wise hod are different.So be more clear with your school or department </s>
+<s>[INST] extc department chief [/INST] Different school wise hod are different.So be more clear with your school or department </s>
+<s>[INST] extc department headmaster [/INST] Different school wise hod are different.So be more clear with your school or department </s>
+<s>[INST] extc department director [/INST] Different school wise hod are different.So be more clear with your school or department </s>
+<s>[INST] extc department manager [/INST] Different school wise hod are different.So be more clear with your school or department </s>
+<s>[INST] extc department chairperson [/INST] Different school wise hod are different.So be more clear with your school or department </s>
+<s>[INST] extc department chairman [/INST] Different school wise hod are different.So be more clear with your school or department </s>
+<s>[INST] extc department chief [/INST] Different school wise hod are different.So be more clear with your school or department </s>
+<s>[INST] what is the name of principal [/INST] XYZ is college principal and if you need any help then call your branch hod first.That is more appropriate </s>
+<s>[INST] whatv is the principal name [/INST] XYZ is college principal and if you need any help then call your branch hod first.That is more appropriate </s>
+<s>[INST] principal name [/INST] XYZ is college principal and if you need any help then call your branch hod first.That is more appropriate </s>
+<s>[INST] Who is college principal [/INST] XYZ is college principal and if you need any help then call your branch hod first.That is more appropriate </s>
+<s>[INST] Where is principal's office [/INST] XYZ is college principal and if you need any help then call your branch hod first.That is more appropriate </s>
+<s>[INST] principal [/INST] XYZ is college principal and if you need any help then call your branch hod first.That is more appropriate </s>
+<s>[INST] name of principal [/INST] XYZ is college principal and if you need any help then call your branch hod first.That is more appropriate </s>
+<s>[INST] Who is the head of the college [/INST] XYZ is college principal and if you need any help then call your branch hod first.That is more appropriate </s>
+<s>[INST] Principal information [/INST] XYZ is college principal and if you need any help then call your branch hod first.That is more appropriate </s>
+<s>[INST] College Principal [/INST] XYZ is college principal and if you need any help then call your branch hod first.That is more appropriate </s>
+<s>[INST] Principal details [/INST] XYZ is college principal and if you need any help then call your branch hod first.That is more appropriate </s>
+<s>[INST] Who leads the college [/INST] XYZ is college principal and if you need any help then call your branch hod first.That is more appropriate </s>
+<s>[INST] Who manages the college [/INST] XYZ is college principal and if you need any help then call your branch hod first.That is more appropriate </s>
+<s>[INST] College leader [/INST] XYZ is college principal and if you need any help then call your branch hod first.That is more appropriate </s>
+<s>[INST] Principal's name [/INST] XYZ is college principal and if you need any help then call your branch hod first.That is more appropriate </s>
+"<s>[INST] exam dates [/INST] Here is the Academic Calendar  <a target=""_blank"" href=""YOUR ACADEMIC CALENDER"">website</a> </s>"
+"<s>[INST] exam schedule [/INST] Here is the Academic Calendar  <a target=""_blank"" href=""YOUR ACADEMIC CALENDER"">website</a> </s>"
+"<s>[INST] When is semester exam [/INST] Here is the Academic Calendar  <a target=""_blank"" href=""YOUR ACADEMIC CALENDER"">website</a> </s>"
+"<s>[INST] Semester exam timetable [/INST] Here is the Academic Calendar  <a target=""_blank"" href=""YOUR ACADEMIC CALENDER"">website</a> </s>"
+"<s>[INST] sem [/INST] Here is the Academic Calendar  <a target=""_blank"" href=""YOUR ACADEMIC CALENDER"">website</a> </s>"
+"<s>[INST] semester [/INST] Here is the Academic Calendar  <a target=""_blank"" href=""YOUR ACADEMIC CALENDER"">website</a> </s>"
+"<s>[INST] exam [/INST] Here is the Academic Calendar  <a target=""_blank"" href=""YOUR ACADEMIC CALENDER"">website</a> </s>"
+"<s>[INST] when is exam [/INST] Here is the Academic Calendar  <a target=""_blank"" href=""YOUR ACADEMIC CALENDER"">website</a> </s>"
+"<s>[INST] exam timetable [/INST] Here is the Academic Calendar  <a target=""_blank"" href=""YOUR ACADEMIC CALENDER"">website</a> </s>"
+"<s>[INST] exam dates [/INST] Here is the Academic Calendar  <a target=""_blank"" href=""YOUR ACADEMIC CALENDER"">website</a> </s>"
+"<s>[INST] when is semester [/INST] Here is the Academic Calendar  <a target=""_blank"" href=""YOUR ACADEMIC CALENDER"">website</a> </s>"
+"<s>[INST] academic calendar [/INST] Here is the Academic Calendar  <a target=""_blank"" href=""YOUR ACADEMIC CALENDER"">website</a> </s>"
+"<s>[INST] semester schedule [/INST] Here is the Academic Calendar  <a target=""_blank"" href=""YOUR ACADEMIC CALENDER"">website</a> </s>"
+"<s>[INST] exam session [/INST] Here is the Academic Calendar  <a target=""_blank"" href=""YOUR ACADEMIC CALENDER"">website</a> </s>"
+"<s>[INST] semester session [/INST] Here is the Academic Calendar  <a target=""_blank"" href=""YOUR ACADEMIC CALENDER"">website</a> </s>"
+"<s>[INST] exam routine [/INST] Here is the Academic Calendar  <a target=""_blank"" href=""YOUR ACADEMIC CALENDER"">website</a> </s>"
+"<s>[INST] semester routine [/INST] Here is the Academic Calendar  <a target=""_blank"" href=""YOUR ACADEMIC CALENDER"">website</a> </s>"
+"<s>[INST] exam period [/INST] Here is the Academic Calendar  <a target=""_blank"" href=""YOUR ACADEMIC CALENDER"">website</a> </s>"
+"<s>[INST] semester period [/INST] Here is the Academic Calendar  <a target=""_blank"" href=""YOUR ACADEMIC CALENDER"">website</a> </s>"
+"<s>[INST] exam time [/INST] Here is the Academic Calendar  <a target=""_blank"" href=""YOUR ACADEMIC CALENDER"">website</a> </s>"
+"<s>[INST] semester time [/INST] Here is the Academic Calendar  <a target=""_blank"" href=""YOUR ACADEMIC CALENDER"">website</a> </s>"
+"<s>[INST] what is the process of admission [/INST] Application can also be submitted online through the Unversity's  <a target=""_blank"" href=""LINK OF ADMISSION DOCUMENT"">website</a> </s>"
+"<s>[INST] what is the admission process [/INST] Application can also be submitted online through the Unversity's  <a target=""_blank"" href=""LINK OF ADMISSION DOCUMENT"">website</a> </s>"
+"<s>[INST] How to take admission in your college [/INST] Application can also be submitted online through the Unversity's  <a target=""_blank"" href=""LINK OF ADMISSION DOCUMENT"">website</a> </s>"
+"<s>[INST] What is the process for admission [/INST] Application can also be submitted online through the Unversity's  <a target=""_blank"" href=""LINK OF ADMISSION DOCUMENT"">website</a> </s>"
+"<s>[INST] admission [/INST] Application can also be submitted online through the Unversity's  <a target=""_blank"" href=""LINK OF ADMISSION DOCUMENT"">website</a> </s>"
+"<s>[INST] admission process [/INST] Application can also be submitted online through the Unversity's  <a target=""_blank"" href=""LINK OF ADMISSION DOCUMENT"">website</a> </s>"
+"<s>[INST] college admission [/INST] Application can also be submitted online through the Unversity's  <a target=""_blank"" href=""LINK OF ADMISSION DOCUMENT"">website</a> </s>"
+"<s>[INST] how to get admission [/INST] Application can also be submitted online through the Unversity's  <a target=""_blank"" href=""LINK OF ADMISSION DOCUMENT"">website</a> </s>"
+"<s>[INST] admission procedure [/INST] Application can also be submitted online through the Unversity's  <a target=""_blank"" href=""LINK OF ADMISSION DOCUMENT"">website</a> </s>"
+"<s>[INST] taking admission [/INST] Application can also be submitted online through the Unversity's  <a target=""_blank"" href=""LINK OF ADMISSION DOCUMENT"">website</a> </s>"
+"<s>[INST] admission requirements [/INST] Application can also be submitted online through the Unversity's  <a target=""_blank"" href=""LINK OF ADMISSION DOCUMENT"">website</a> </s>"
+"<s>[INST] admission criteria [/INST] Application can also be submitted online through the Unversity's  <a target=""_blank"" href=""LINK OF ADMISSION DOCUMENT"">website</a> </s>"
+"<s>[INST] admission details [/INST] Application can also be submitted online through the Unversity's  <a target=""_blank"" href=""LINK OF ADMISSION DOCUMENT"">website</a> </s>"
+"<s>[INST] enrollment [/INST] Application can also be submitted online through the Unversity's  <a target=""_blank"" href=""LINK OF ADMISSION DOCUMENT"">website</a> </s>"
+"<s>[INST] enroll in college [/INST] Application can also be submitted online through the Unversity's  <a target=""_blank"" href=""LINK OF ADMISSION DOCUMENT"">website</a> </s>"
+"<s>[INST] college enrollment [/INST] Application can also be submitted online through the Unversity's  <a target=""_blank"" href=""LINK OF ADMISSION DOCUMENT"">website</a> </s>"
+"<s>[INST] registration [/INST] Application can also be submitted online through the Unversity's  <a target=""_blank"" href=""LINK OF ADMISSION DOCUMENT"">website</a> </s>"
+"<s>[INST] college registration [/INST] Application can also be submitted online through the Unversity's  <a target=""_blank"" href=""LINK OF ADMISSION DOCUMENT"">website</a> </s>"
+"<s>[INST] apply for admission [/INST] Application can also be submitted online through the Unversity's  <a target=""_blank"" href=""LINK OF ADMISSION DOCUMENT"">website</a> </s>"
+"<s>[INST] apply to college [/INST] Application can also be submitted online through the Unversity's  <a target=""_blank"" href=""LINK OF ADMISSION DOCUMENT"">website</a> </s>"
+"<s>[INST] scholarship [/INST] Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a> </s>"
+"<s>[INST] Is scholarship available [/INST] Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a> </s>"
+"<s>[INST] scholarship engineering [/INST] Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a> </s>"
+"<s>[INST] scholarship it [/INST] Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a> </s>"
+"<s>[INST] scholarship ce [/INST] Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a> </s>"
+"<s>[INST] scholarship mechanical [/INST] Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a> </s>"
+"<s>[INST] scholarship civil [/INST] Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a> </s>"
+"<s>[INST] scholarship chemical [/INST] Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a> </s>"
+"<s>[INST] scholarship for AI/ML [/INST] Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a> </s>"
+"<s>[INST] available scholarships [/INST] Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a> </s>"
+"<s>[INST] scholarship for computer engineering [/INST] Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a> </s>"
+"<s>[INST] scholarship for IT engineering [/INST] Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a> </s>"
+"<s>[INST] scholarship for mechanical engineering [/INST] Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a> </s>"
+"<s>[INST] scholarship for civil engineering [/INST] Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a> </s>"
+"<s>[INST] scholarship for chemical engineering [/INST] Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a> </s>"
+"<s>[INST] list of scholarship [/INST] Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a> </s>"
+"<s>[INST] comps scholarship [/INST] Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a> </s>"
+"<s>[INST] IT scholarship [/INST] Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a> </s>"
+"<s>[INST] mechanical scholarship [/INST] Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a> </s>"
+"<s>[INST] civil scholarship [/INST] Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a> </s>"
+"<s>[INST] chemical scholarship [/INST] Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a> </s>"
+"<s>[INST] automobile scholarship [/INST] Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a> </s>"
+"<s>[INST] first year scholarship [/INST] Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a> </s>"
+"<s>[INST] second year scholarship [/INST] Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a> </s>"
+"<s>[INST] third year scholarship [/INST] Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a> </s>"
+"<s>[INST] fourth year scholarship [/INST] Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a> </s>"
+"<s>[INST] What facilities college provide [/INST] Our university's Engineering department provides fully AC Lab with internet connection, smart classroom, Auditorium, library,canteen </s>"
+"<s>[INST] College facility [/INST] Our university's Engineering department provides fully AC Lab with internet connection, smart classroom, Auditorium, library,canteen </s>"
+"<s>[INST] What are college facilities [/INST] Our university's Engineering department provides fully AC Lab with internet connection, smart classroom, Auditorium, library,canteen </s>"
+"<s>[INST] facilities [/INST] Our university's Engineering department provides fully AC Lab with internet connection, smart classroom, Auditorium, library,canteen </s>"
+"<s>[INST] facilities provided [/INST] Our university's Engineering department provides fully AC Lab with internet connection, smart classroom, Auditorium, library,canteen </s>"
+"<s>[INST] college amenities [/INST] Our university's Engineering department provides fully AC Lab with internet connection, smart classroom, Auditorium, library,canteen </s>"
+"<s>[INST] college resources [/INST] Our university's Engineering department provides fully AC Lab with internet connection, smart classroom, Auditorium, library,canteen </s>"
+"<s>[INST] infrastructure [/INST] Our university's Engineering department provides fully AC Lab with internet connection, smart classroom, Auditorium, library,canteen </s>"
+"<s>[INST] college infrastructure [/INST] Our university's Engineering department provides fully AC Lab with internet connection, smart classroom, Auditorium, library,canteen </s>"
+"<s>[INST] academic facilities [/INST] Our university's Engineering department provides fully AC Lab with internet connection, smart classroom, Auditorium, library,canteen </s>"
+"<s>[INST] campus amenities [/INST] Our university's Engineering department provides fully AC Lab with internet connection, smart classroom, Auditorium, library,canteen </s>"
+"<s>[INST] max number of students [/INST] For IT, Computer and extc 60 per branch and seat may be differ for different department. </s>"
+"<s>[INST] number of seats per branch [/INST] For IT, Computer and extc 60 per branch and seat may be differ for different department. </s>"
+"<s>[INST] number of seats in each branch [/INST] For IT, Computer and extc 60 per branch and seat may be differ for different department. </s>"
+"<s>[INST] maximum number of seats [/INST] For IT, Computer and extc 60 per branch and seat may be differ for different department. </s>"
+"<s>[INST] maximum students intake [/INST] For IT, Computer and extc 60 per branch and seat may be differ for different department. </s>"
+"<s>[INST] What is college intake [/INST] For IT, Computer and extc 60 per branch and seat may be differ for different department. </s>"
+"<s>[INST] how many students are taken in each branch [/INST] For IT, Computer and extc 60 per branch and seat may be differ for different department. </s>"
+"<s>[INST] seat allotment [/INST] For IT, Computer and extc 60 per branch and seat may be differ for different department. </s>"
+"<s>[INST] seats [/INST] For IT, Computer and extc 60 per branch and seat may be differ for different department. </s>"
+"<s>[INST] college capacity [/INST] For IT, Computer and extc 60 per branch and seat may be differ for different department. </s>"
+"<s>[INST] branch capacity [/INST] For IT, Computer and extc 60 per branch and seat may be differ for different department. </s>"
+"<s>[INST] student intake [/INST] For IT, Computer and extc 60 per branch and seat may be differ for different department. </s>"
+"<s>[INST] branch intake [/INST] For IT, Computer and extc 60 per branch and seat may be differ for different department. </s>"
+"<s>[INST] college admission capacity [/INST] For IT, Computer and extc 60 per branch and seat may be differ for different department. </s>"
+"<s>[INST] branch admission capacity [/INST] For IT, Computer and extc 60 per branch and seat may be differ for different department. </s>"
+"<s>[INST] enrollment limit [/INST] For IT, Computer and extc 60 per branch and seat may be differ for different department. </s>"
+"<s>[INST] branch enrollment [/INST] For IT, Computer and extc 60 per branch and seat may be differ for different department. </s>"
+"<s>[INST] student quota [/INST] For IT, Computer and extc 60 per branch and seat may be differ for different department. </s>"
+"<s>[INST] college admission quota [/INST] For IT, Computer and extc 60 per branch and seat may be differ for different department. </s>"
+"<s>[INST] branch admission quota [/INST] For IT, Computer and extc 60 per branch and seat may be differ for different department. </s>"
+<s>[INST] college dress code [/INST] ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER </s>
+<s>[INST] college dresscode [/INST] ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER </s>
+<s>[INST] what is the uniform [/INST] ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER </s>
+<s>[INST] can we wear casuals [/INST] ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER </s>
+<s>[INST] Does college have an uniform [/INST] ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER </s>
+<s>[INST] Is there any uniform [/INST] ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER </s>
+<s>[INST] uniform [/INST] ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER </s>
+<s>[INST] what about uniform [/INST] ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER </s>
+<s>[INST] do we have to wear uniform [/INST] ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER </s>
+<s>[INST] dress regulation [/INST] ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER </s>
+<s>[INST] attire policy [/INST] ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER </s>
+<s>[INST] casual dress allowed [/INST] ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER </s>
+<s>[INST] uniform policy [/INST] ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER </s>
+<s>[INST] dress guidelines [/INST] ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER </s>
+<s>[INST] dress restrictions [/INST] ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER </s>
+<s>[INST] dress norms [/INST] ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER </s>
+<s>[INST] college attire [/INST] ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER </s>
+<s>[INST] college clothing [/INST] ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER </s>
+<s>[INST] dress expectations [/INST] ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER </s>
+<s>[INST] dress standards [/INST] ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER </s>
+<s>[INST] what are the different committees in college [/INST] For the various committe in college contact this number: ADD NUMBER </s>
+<s>[INST] different committee in college [/INST] For the various committe in college contact this number: ADD NUMBER </s>
+<s>[INST] Are there any committees in college [/INST] For the various committe in college contact this number: ADD NUMBER </s>
+<s>[INST] Give me committee details [/INST] For the various committe in college contact this number: ADD NUMBER </s>
+<s>[INST] committee [/INST] For the various committe in college contact this number: ADD NUMBER </s>
+<s>[INST] how many committees are there in college [/INST] For the various committe in college contact this number: ADD NUMBER </s>
+<s>[INST] college committee [/INST] For the various committe in college contact this number: ADD NUMBER </s>
+<s>[INST] committee information [/INST] For the various committe in college contact this number: ADD NUMBER </s>
+<s>[INST] committee list [/INST] For the various committe in college contact this number: ADD NUMBER </s>
+<s>[INST] college organizations [/INST] For the various committe in college contact this number: ADD NUMBER </s>
+<s>[INST] student council [/INST] For the various committe in college contact this number: ADD NUMBER </s>
+<s>[INST] governing bodies [/INST] For the various committe in college contact this number: ADD NUMBER </s>
+<s>[INST] committee structure [/INST] For the various committe in college contact this number: ADD NUMBER </s>
+<s>[INST] committee roles [/INST] For the various committe in college contact this number: ADD NUMBER </s>
+<s>[INST] committee responsibilities [/INST] For the various committe in college contact this number: ADD NUMBER </s>
+<s>[INST] student groups [/INST] For the various committe in college contact this number: ADD NUMBER </s>
+<s>[INST] student organizations [/INST] For the various committe in college contact this number: ADD NUMBER </s>
+<s>[INST] college associations [/INST] For the various committe in college contact this number: ADD NUMBER </s>
+<s>[INST] campus groups [/INST] For the various committe in college contact this number: ADD NUMBER </s>
+<s>[INST] college societies [/INST] For the various committe in college contact this number: ADD NUMBER </s>
+"<s>[INST] I love you [/INST] I am not program for this, please ask appropriate query </s>"
+"<s>[INST] Will you marry me [/INST] I am not program for this, please ask appropriate query </s>"
+"<s>[INST] Do you love me [/INST] I am not program for this, please ask appropriate query </s>"
+"<s>[INST] Random [/INST] I am not program for this, please ask appropriate query </s>"
+"<s>[INST] Random query [/INST] I am not program for this, please ask appropriate query </s>"
+"<s>[INST] Non-specific question [/INST] I am not program for this, please ask appropriate query </s>"
+"<s>[INST] Miscellaneous query [/INST] I am not program for this, please ask appropriate query </s>"
+"<s>[INST] Unrelated question [/INST] I am not program for this, please ask appropriate query </s>"
+"<s>[INST] Off-topic query [/INST] I am not program for this, please ask appropriate query </s>"
+"<s>[INST] Random thought [/INST] I am not program for this, please ask appropriate query </s>"
+"<s>[INST] Just asking [/INST] I am not program for this, please ask appropriate query </s>"
+"<s>[INST] Curious query [/INST] I am not program for this, please ask appropriate query </s>"
+"<s>[INST] Interesting question [/INST] I am not program for this, please ask appropriate query </s>"
+"<s>[INST] Unrelated inquiry [/INST] I am not program for this, please ask appropriate query </s>"
+"<s>[INST] Irrelevant question [/INST] I am not program for this, please ask appropriate query </s>"
+"<s>[INST] Random inquiry [/INST] I am not program for this, please ask appropriate query </s>"
+"<s>[INST] Unexpected question [/INST] I am not program for this, please ask appropriate query </s>"
+"<s>[INST] Strange question [/INST] I am not program for this, please ask appropriate query </s>"
+"<s>[INST] Weird query [/INST] I am not program for this, please ask appropriate query </s>"
+<s>[INST] fuck [/INST] please use appropriate language </s>
+<s>[INST] fuck [/INST] Maintaining decency would be appreciated </s>
+<s>[INST] bitch [/INST] please use appropriate language </s>
+<s>[INST] bitch [/INST] Maintaining decency would be appreciated </s>
+<s>[INST] shut up [/INST] please use appropriate language </s>
+<s>[INST] shut up [/INST] Maintaining decency would be appreciated </s>
+<s>[INST] hell [/INST] please use appropriate language </s>
+<s>[INST] hell [/INST] Maintaining decency would be appreciated </s>
+<s>[INST] stupid [/INST] please use appropriate language </s>
+<s>[INST] stupid [/INST] Maintaining decency would be appreciated </s>
+<s>[INST] idiot [/INST] please use appropriate language </s>
+<s>[INST] idiot [/INST] Maintaining decency would be appreciated </s>
+<s>[INST] dumb ass [/INST] please use appropriate language </s>
+<s>[INST] dumb ass [/INST] Maintaining decency would be appreciated </s>
+<s>[INST] asshole [/INST] please use appropriate language </s>
+<s>[INST] asshole [/INST] Maintaining decency would be appreciated </s>
+<s>[INST] fucker [/INST] please use appropriate language </s>
+<s>[INST] fucker [/INST] Maintaining decency would be appreciated </s>
+<s>[INST] Swear words [/INST] please use appropriate language </s>
+<s>[INST] Swear words [/INST] Maintaining decency would be appreciated </s>
+<s>[INST] Inappropriate language [/INST] please use appropriate language </s>
+<s>[INST] Inappropriate language [/INST] Maintaining decency would be appreciated </s>
+<s>[INST] Vulgar language [/INST] please use appropriate language </s>
+<s>[INST] Vulgar language [/INST] Maintaining decency would be appreciated </s>
+<s>[INST] Profanity [/INST] please use appropriate language </s>
+<s>[INST] Profanity [/INST] Maintaining decency would be appreciated </s>
+<s>[INST] Insulting language [/INST] please use appropriate language </s>
+<s>[INST] Insulting language [/INST] Maintaining decency would be appreciated </s>
+<s>[INST] Abusive words [/INST] please use appropriate language </s>
+<s>[INST] Abusive words [/INST] Maintaining decency would be appreciated </s>
+<s>[INST] Offensive language [/INST] please use appropriate language </s>
+<s>[INST] Offensive language [/INST] Maintaining decency would be appreciated </s>
+<s>[INST] Cursing [/INST] please use appropriate language </s>
+<s>[INST] Cursing [/INST] Maintaining decency would be appreciated </s>
+<s>[INST] Offensive terms [/INST] please use appropriate language </s>
+<s>[INST] Offensive terms [/INST] Maintaining decency would be appreciated </s>
+<s>[INST] Derogatory language [/INST] please use appropriate language </s>
+<s>[INST] Derogatory language [/INST] Maintaining decency would be appreciated </s>
+<s>[INST] holidays [/INST] Academic calender is given to you by your class-soordinators after you join your respective classes </s>
+<s>[INST] when will semester starts [/INST] Academic calender is given to you by your class-soordinators after you join your respective classes </s>
+<s>[INST] when will semester end [/INST] Academic calender is given to you by your class-soordinators after you join your respective classes </s>
+<s>[INST] when is the holidays [/INST] Academic calender is given to you by your class-soordinators after you join your respective classes </s>
+<s>[INST] list of holidays [/INST] Academic calender is given to you by your class-soordinators after you join your respective classes </s>
+<s>[INST] Holiday in these year [/INST] Academic calender is given to you by your class-soordinators after you join your respective classes </s>
+<s>[INST] holiday list [/INST] Academic calender is given to you by your class-soordinators after you join your respective classes </s>
+<s>[INST] about vacations [/INST] Academic calender is given to you by your class-soordinators after you join your respective classes </s>
+<s>[INST] about holidays [/INST] Academic calender is given to you by your class-soordinators after you join your respective classes </s>
+<s>[INST] When is vacation [/INST] Academic calender is given to you by your class-soordinators after you join your respective classes </s>
+<s>[INST] When is holidays [/INST] Academic calender is given to you by your class-soordinators after you join your respective classes </s>
+<s>[INST] how long will be the vacation [/INST] Academic calender is given to you by your class-soordinators after you join your respective classes </s>
+<s>[INST] semester break [/INST] Academic calender is given to you by your class-soordinators after you join your respective classes </s>
+<s>[INST] academic break [/INST] Academic calender is given to you by your class-soordinators after you join your respective classes </s>
+<s>[INST] college break [/INST] Academic calender is given to you by your class-soordinators after you join your respective classes </s>
+<s>[INST] semester holidays [/INST] Academic calender is given to you by your class-soordinators after you join your respective classes </s>
+<s>[INST] academic holidays [/INST] Academic calender is given to you by your class-soordinators after you join your respective classes </s>
+<s>[INST] college holidays [/INST] Academic calender is given to you by your class-soordinators after you join your respective classes </s>
+<s>[INST] break duration [/INST] Academic calender is given to you by your class-soordinators after you join your respective classes </s>
+<s>[INST] semester vacation [/INST] Academic calender is given to you by your class-soordinators after you join your respective classes </s>
+<s>[INST] academic vacation [/INST] Academic calender is given to you by your class-soordinators after you join your respective classes </s>
+<s>[INST] college vacation [/INST] Academic calender is given to you by your class-soordinators after you join your respective classes </s>
+"<s>[INST] sports and games [/INST] Our university encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a target=""_blank"" href=/""(LINK IF HAVE)"">here</a> </s>"
+"<s>[INST] give sports details [/INST] Our university encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a target=""_blank"" href=/""(LINK IF HAVE)"">here</a> </s>"
+"<s>[INST] sports infrastructure [/INST] Our university encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a target=""_blank"" href=/""(LINK IF HAVE)"">here</a> </s>"
+"<s>[INST] sports facilities [/INST] Our university encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a target=""_blank"" href=/""(LINK IF HAVE)"">here</a> </s>"
+"<s>[INST] information about sports [/INST] Our university encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a target=""_blank"" href=/""(LINK IF HAVE)"">here</a> </s>"
+"<s>[INST] Sports activities [/INST] Our university encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a target=""_blank"" href=/""(LINK IF HAVE)"">here</a> </s>"
+"<s>[INST] please provide sports and games information [/INST] Our university encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a target=""_blank"" href=/""(LINK IF HAVE)"">here</a> </s>"
+"<s>[INST] college sports [/INST] Our university encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a target=""_blank"" href=/""(LINK IF HAVE)"">here</a> </s>"
+"<s>[INST] sports facilities [/INST] Our university encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a target=""_blank"" href=/""(LINK IF HAVE)"">here</a> </s>"
+"<s>[INST] athletic facilities [/INST] Our university encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a target=""_blank"" href=/""(LINK IF HAVE)"">here</a> </s>"
+"<s>[INST] sports programs [/INST] Our university encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a target=""_blank"" href=/""(LINK IF HAVE)"">here</a> </s>"
+"<s>[INST] sports teams [/INST] Our university encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a target=""_blank"" href=/""(LINK IF HAVE)"">here</a> </s>"
+"<s>[INST] college athletics [/INST] Our university encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a target=""_blank"" href=/""(LINK IF HAVE)"">here</a> </s>"
+"<s>[INST] sports events [/INST] Our university encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a target=""_blank"" href=/""(LINK IF HAVE)"">here</a> </s>"
+"<s>[INST] sports amenities [/INST] Our university encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a target=""_blank"" href=/""(LINK IF HAVE)"">here</a> </s>"
+"<s>[INST] fitness programs [/INST] Our university encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a target=""_blank"" href=/""(LINK IF HAVE)"">here</a> </s>"
+"<s>[INST] recreational activities [/INST] Our university encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a target=""_blank"" href=/""(LINK IF HAVE)"">here</a> </s>"
+"<s>[INST] intramural sports [/INST] Our university encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a target=""_blank"" href=/""(LINK IF HAVE)"">here</a> </s>"
+"<s>[INST] extracurricular sports [/INST] Our university encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a target=""_blank"" href=/""(LINK IF HAVE)"">here</a> </s>"
+<s>[INST] okk [/INST] I am glad I helped you </s>
+"<s>[INST] okk [/INST] welcome, anything else i can assist you with? </s>"
+<s>[INST] okie [/INST] I am glad I helped you </s>
+"<s>[INST] okie [/INST] welcome, anything else i can assist you with? </s>"
+<s>[INST] nice work [/INST] I am glad I helped you </s>
+"<s>[INST] nice work [/INST] welcome, anything else i can assist you with? </s>"
+<s>[INST] well done [/INST] I am glad I helped you </s>
+"<s>[INST] well done [/INST] welcome, anything else i can assist you with? </s>"
+<s>[INST] good job [/INST] I am glad I helped you </s>
+"<s>[INST] good job [/INST] welcome, anything else i can assist you with? </s>"
+<s>[INST] thanks for the help [/INST] I am glad I helped you </s>
+"<s>[INST] thanks for the help [/INST] welcome, anything else i can assist you with? </s>"
+<s>[INST] Thank You [/INST] I am glad I helped you </s>
+"<s>[INST] Thank You [/INST] welcome, anything else i can assist you with? </s>"
+<s>[INST] its ok [/INST] I am glad I helped you </s>
+"<s>[INST] its ok [/INST] welcome, anything else i can assist you with? </s>"
+<s>[INST] Thanks [/INST] I am glad I helped you </s>
+"<s>[INST] Thanks [/INST] welcome, anything else i can assist you with? </s>"
+<s>[INST] Good work [/INST] I am glad I helped you </s>
+"<s>[INST] Good work [/INST] welcome, anything else i can assist you with? </s>"
+<s>[INST] k [/INST] I am glad I helped you </s>
+"<s>[INST] k [/INST] welcome, anything else i can assist you with? </s>"
+<s>[INST] ok [/INST] I am glad I helped you </s>
+"<s>[INST] ok [/INST] welcome, anything else i can assist you with? </s>"
+<s>[INST] okay [/INST] I am glad I helped you </s>
+"<s>[INST] okay [/INST] welcome, anything else i can assist you with? </s>"
+<s>[INST] Acknowledgement [/INST] I am glad I helped you </s>
+"<s>[INST] Acknowledgement [/INST] welcome, anything else i can assist you with? </s>"
+<s>[INST] Appreciation [/INST] I am glad I helped you </s>
+"<s>[INST] Appreciation [/INST] welcome, anything else i can assist you with? </s>"
+<s>[INST] Gratitude [/INST] I am glad I helped you </s>
+"<s>[INST] Gratitude [/INST] welcome, anything else i can assist you with? </s>"
+<s>[INST] Recognition [/INST] I am glad I helped you </s>
+"<s>[INST] Recognition [/INST] welcome, anything else i can assist you with? </s>"
+<s>[INST] Acknowledgment [/INST] I am glad I helped you </s>
+"<s>[INST] Acknowledgment [/INST] welcome, anything else i can assist you with? </s>"
+<s>[INST] Thanks giving [/INST] I am glad I helped you </s>
+"<s>[INST] Thanks giving [/INST] welcome, anything else i can assist you with? </s>"
+<s>[INST] Praise [/INST] I am glad I helped you </s>
+"<s>[INST] Praise [/INST] welcome, anything else i can assist you with? </s>"
+<s>[INST] Approval [/INST] I am glad I helped you </s>
+"<s>[INST] Approval [/INST] welcome, anything else i can assist you with? </s>"
+<s>[INST] what can you do [/INST] I can answer to low-intermediate questions regarding college </s>
+"<s>[INST] what can you do [/INST] You can ask me questions regarding college, and i will try to answer them </s>"
+<s>[INST] what are the things you can do [/INST] I can answer to low-intermediate questions regarding college </s>
+"<s>[INST] what are the things you can do [/INST] You can ask me questions regarding college, and i will try to answer them </s>"
+<s>[INST] things you can do [/INST] I can answer to low-intermediate questions regarding college </s>
+"<s>[INST] things you can do [/INST] You can ask me questions regarding college, and i will try to answer them </s>"
+<s>[INST] what can u do for me [/INST] I can answer to low-intermediate questions regarding college </s>
+"<s>[INST] what can u do for me [/INST] You can ask me questions regarding college, and i will try to answer them </s>"
+<s>[INST] how u can help me [/INST] I can answer to low-intermediate questions regarding college </s>
+"<s>[INST] how u can help me [/INST] You can ask me questions regarding college, and i will try to answer them </s>"
+<s>[INST] why I should use you [/INST] I can answer to low-intermediate questions regarding college </s>
+"<s>[INST] why I should use you [/INST] You can ask me questions regarding college, and i will try to answer them </s>"
+<s>[INST] Capabilities [/INST] I can answer to low-intermediate questions regarding college </s>
+"<s>[INST] Capabilities [/INST] You can ask me questions regarding college, and i will try to answer them </s>"
+<s>[INST] Services offered [/INST] I can answer to low-intermediate questions regarding college </s>
+"<s>[INST] Services offered [/INST] You can ask me questions regarding college, and i will try to answer them </s>"
+<s>[INST] Assistance provided [/INST] I can answer to low-intermediate questions regarding college </s>
+"<s>[INST] Assistance provided [/INST] You can ask me questions regarding college, and i will try to answer them </s>"
+<s>[INST] Helpfulness [/INST] I can answer to low-intermediate questions regarding college </s>
+"<s>[INST] Helpfulness [/INST] You can ask me questions regarding college, and i will try to answer them </s>"
+<s>[INST] Features [/INST] I can answer to low-intermediate questions regarding college </s>
+"<s>[INST] Features [/INST] You can ask me questions regarding college, and i will try to answer them </s>"
+<s>[INST] Functionalities [/INST] I can answer to low-intermediate questions regarding college </s>
+"<s>[INST] Functionalities [/INST] You can ask me questions regarding college, and i will try to answer them </s>"
+<s>[INST] Capabilities [/INST] I can answer to low-intermediate questions regarding college </s>
+"<s>[INST] Capabilities [/INST] You can ask me questions regarding college, and i will try to answer them </s>"
+<s>[INST] Utilities [/INST] I can answer to low-intermediate questions regarding college </s>
+"<s>[INST] Utilities [/INST] You can ask me questions regarding college, and i will try to answer them </s>"
+<s>[INST] Assistance [/INST] I can answer to low-intermediate questions regarding college </s>
+"<s>[INST] Assistance [/INST] You can ask me questions regarding college, and i will try to answer them </s>"
+<s>[INST] Support [/INST] I can answer to low-intermediate questions regarding college </s>
+"<s>[INST] Support [/INST] You can ask me questions regarding college, and i will try to answer them </s>"
+<s>[INST] Aid [/INST] I can answer to low-intermediate questions regarding college </s>
+"<s>[INST] Aid [/INST] You can ask me questions regarding college, and i will try to answer them </s>"
+<s>[INST] Service offerings [/INST] I can answer to low-intermediate questions regarding college </s>
+"<s>[INST] Service offerings [/INST] You can ask me questions regarding college, and i will try to answer them </s>"
+<s>[INST] Options [/INST] I can answer to low-intermediate questions regarding college </s>
+"<s>[INST] Options [/INST] You can ask me questions regarding college, and i will try to answer them </s>"
+"<s>[INST] ragging [/INST] We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging </s>"
+"<s>[INST] is ragging practice active in college [/INST] We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging </s>"
+"<s>[INST] does college have any antiragging facility [/INST] We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging </s>"
+"<s>[INST] is there any ragging cases [/INST] We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging </s>"
+"<s>[INST] is ragging done here [/INST] We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging </s>"
+"<s>[INST] ragging against [/INST] We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging </s>"
+"<s>[INST] antiragging facility [/INST] We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging </s>"
+"<s>[INST] ragging juniors [/INST] We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging </s>"
+"<s>[INST] ragging history [/INST] We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging </s>"
+"<s>[INST] ragging incidents [/INST] We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging </s>"
+"<s>[INST] Ragging policy [/INST] We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging </s>"
+"<s>[INST] Anti-ragging measures [/INST] We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging </s>"
+"<s>[INST] Ragging prevention [/INST] We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging </s>"
+"<s>[INST] Ragging prohibition [/INST] We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging </s>"
+"<s>[INST] Ragging awareness [/INST] We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging </s>"
+"<s>[INST] Ragging consequences [/INST] We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging </s>"
+"<s>[INST] Ragging complaints [/INST] We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging </s>"
+"<s>[INST] Ragging disciplinary action [/INST] We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging </s>"
+"<s>[INST] Anti-ragging initiatives [/INST] We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging </s>"
+"<s>[INST] Ragging guidelines [/INST] We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging </s>"
+"<s>[INST] hod [/INST] HODs differ for each branch, please be more specific like: (HOD it) </s>"
+"<s>[INST] hod name [/INST] HODs differ for each branch, please be more specific like: (HOD it) </s>"
+"<s>[INST] who is the hod [/INST] HODs differ for each branch, please be more specific like: (HOD it) </s>"
+"<s>[INST] Head of department [/INST] HODs differ for each branch, please be more specific like: (HOD it) </s>"
+"<s>[INST] Department head [/INST] HODs differ for each branch, please be more specific like: (HOD it) </s>"
+"<s>[INST] Department leader [/INST] HODs differ for each branch, please be more specific like: (HOD it) </s>"
+"<s>[INST] hod details [/INST] HODs differ for each branch, please be more specific like: (HOD it) </s>"
+"<s>[INST] hod information [/INST] HODs differ for each branch, please be more specific like: (HOD it) </s>"
+"<s>[INST] hod contact [/INST] HODs differ for each branch, please be more specific like: (HOD it) </s>"
+"<s>[INST] hod responsibilities [/INST] HODs differ for each branch, please be more specific like: (HOD it) </s>"
+"<s>[INST] hod duties [/INST] HODs differ for each branch, please be more specific like: (HOD it) </s>"
+"<s>[INST] hod role [/INST] HODs differ for each branch, please be more specific like: (HOD it) </s>"
+"<s>[INST] hod designation [/INST] HODs differ for each branch, please be more specific like: (HOD it) </s>"
+"<s>[INST] hod position [/INST] HODs differ for each branch, please be more specific like: (HOD it) </s>"
+"<s>[INST] hod title [/INST] HODs differ for each branch, please be more specific like: (HOD it) </s>"
+"<s>[INST] hod rank [/INST] HODs differ for each branch, please be more specific like: (HOD it) </s>"
+"<s>[INST] hod authority [/INST] HODs differ for each branch, please be more specific like: (HOD it) </s>"
+"<s>[INST] hod qualifications [/INST] HODs differ for each branch, please be more specific like: (HOD it) </s>"
+"<s>[INST] hod experience [/INST] HODs differ for each branch, please be more specific like: (HOD it) </s>"
